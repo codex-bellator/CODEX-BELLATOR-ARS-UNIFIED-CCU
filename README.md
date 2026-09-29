@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta descripción añadida para SEO -->
     <meta name="description" content="CODEX BELLATOR - ARS UNIFIED. Ciencia de Combate Unificado. Sistema de alta ingeniería humana, neurofisiología aplicada y telemetría biológica.">
     <title>CODEX BELLATOR - ARS UNIFIED | Ciencia de Combate Unificado</title>
     <!-- Tailwind CSS CDN -->
@@ -58,6 +59,10 @@
         .glow-cyan {
             box-shadow: 0 0 25px -5px rgba(6, 182, 212, 0.3);
         }
+        .border-gradient {
+            border-image: linear-gradient(to right, #f59e0b, #06b6d4) 1;
+        }
+        /* Custom scrollbar */
         ::-webkit-scrollbar {
             width: 8px;
         }
@@ -89,14 +94,14 @@
             </a>
 
             <!-- Quick Navigation Links -->
-            <nav class="hidden lg:flex items-center gap-5 text-xs font-semibold tracking-wider uppercase text-gray-300">
+            <nav class="hidden lg:flex items-center gap-6 text-xs font-semibold tracking-wider uppercase text-gray-300">
                 <a href="#que-es" class="hover:text-amber-400 transition-colors">¿Qué es?</a>
                 <a href="#para-que-sirve" class="hover:text-amber-400 transition-colors">¿Para qué sirve?</a>
                 <a href="#objetivo" class="hover:text-amber-400 transition-colors">Objetivo</a>
                 <a href="#como-funciona" class="hover:text-amber-400 transition-colors">Funcionamiento</a>
                 <a href="#realmente-funciona" class="hover:text-amber-400 transition-colors">Evidencia</a>
                 <a href="#diferencias" class="hover:text-amber-400 transition-colors">Comparativa</a>
-                <a href="#redes" class="hover:text-amber-400 transition-colors">Redes</a>
+                <a href="#multimedia" class="hover:text-amber-400 transition-colors">Multimedia</a>
                 <a href="#descarga" class="hover:text-amber-400 transition-colors text-amber-400">Descarga</a>
             </nav>
 
@@ -119,15 +124,16 @@
             <a href="#como-funciona" class="block text-gray-300 hover:text-amber-400 font-medium mobile-link">¿Cómo funciona?</a>
             <a href="#realmente-funciona" class="block text-gray-300 hover:text-amber-400 font-medium mobile-link">¿Realmente funciona?</a>
             <a href="#diferencias" class="block text-gray-300 hover:text-amber-400 font-medium mobile-link">Diferencias Metodológicas</a>
-            <a href="#redes" class="block text-gray-300 hover:text-amber-400 font-medium mobile-link">Canales Oficiales</a>
+            <a href="#multimedia" class="block text-gray-300 hover:text-amber-400 font-medium mobile-link">Canales YouTube y Spotify</a>
             <a href="#descarga" class="block text-amber-400 hover:text-amber-300 font-bold mobile-link">Descargar Codex Completo</a>
         </div>
     </header>
 
-    <!-- HERO SECTION -->
+    <!-- MAIN BLOGGER HERO BLOCK -->
     <section class="relative pt-12 pb-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto text-center" id="conocer">
         <div class="absolute inset-0 -z-10 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-amber-500/10 via-tactical-900/60 to-transparent"></div>
         
+        <!-- Hero Box Frame -->
         <div class="border-2 border-amber-500/80 bg-tactical-800/90 rounded-2xl p-6 sm:p-10 md:p-12 shadow-2xl glow-amber relative overflow-hidden backdrop-blur-sm">
             <div class="absolute top-0 right-0 w-32 h-32 bg-amber-500/10 rounded-full blur-2xl pointer-events-none"></div>
             <div class="absolute bottom-0 left-0 w-32 h-32 bg-cyan-500/10 rounded-full blur-2xl pointer-events-none"></div>
@@ -161,26 +167,74 @@
             <div class="mt-8 pt-6 border-t border-tactical-700/80 flex flex-wrap justify-center gap-4 text-xs text-gray-400 font-mono">
                 <span><i class="fa-solid fa-shield text-amber-500 mr-1"></i>Arquitectura Metodológica Canónica</span>
                 <span>•</span>
-                <span><i class="fa-solid fa-code-branch text-amber-500 mr-1"></i>Doctrina Versión 4.0</span>
+                <span><i class="fa-solid fa-code-branch text-amber-500 mr-1"></i>Doctrina Versión 4.0 (Sistémica Avanzada)</span>
+                <span>•</span>
+                <span><i class="fa-solid fa-microchip text-amber-500 mr-1"></i>P.A.O. v6.0 & S.M.V.</span>
             </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl animate-bounce">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
-    <!-- SECTION 1: ¿QUÉ ES? -->
+    <!-- SECTION 1: ¿QUÉ ES EL CODEX BELLATOR ARS UNIFIED? -->
     <section id="que-es" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
         <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
             <div class="flex items-center gap-3 mb-6">
-                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">1</div>
-                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">¿QUÉ ES EL CODEX BELLATOR ARS UNIFIED?</h2>
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    1
+                </div>
+                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                    ¿QUÉ ES EL CODEX BELLATOR ARS UNIFIED?
+                </h2>
             </div>
+
             <div class="prose prose-invert max-w-none text-gray-300 text-base sm:text-lg leading-relaxed space-y-6">
                 <p class="font-medium text-amber-200/90 text-lg sm:text-xl border-l-4 border-amber-500 pl-4 py-1">
-                    El <strong>Codex Bellator – Ars Unified</strong> es la <strong>Ciencia de Combate Unificado (C.C.U.)</strong>: un sistema cerrado de alta ingeniería humana, neurofisiología aplicada, biomecánica y telemetría biológica concebido para eliminar la entropía metodológica y los sesgos empíricos tradicionales.
+                    El <strong>Codex Bellator – Ars Unified</strong> es la <strong>Ciencia de Combate Unificado (C.C.U.)</strong>: un sistema cerrado de alta ingeniería humana, neurofisiología aplicada, biomecánica y telemetría biológica concebido para eliminar la entropía metodológica y la improvisación en las artes marciales y deportes de contacto.
                 </p>
+
                 <p>
-                    Su propósito fundamental es transformar al practicante en un operador táctico capaz de anular la latencia reactiva, interpretar microseñales corporales y ejecutar intercepciones precisas en <strong>Tiempo Cero (T0)</strong>.
+                    A diferencia del entrenamiento tradicional basado en la acumulación ciega de fatiga muscular y dogmas históricos, el Codex concibe el combate como un <strong>proceso dinámico de control de lazo cerrado</strong>. Su fin es transformar al atleta en un operador capaz de anular la latencia reactiva del oponente y ejecutar intercepciones en <strong>Tiempo Cero ($T0$)</strong>.
                 </p>
+
+                <!-- 3 Levels of Abstraction Grid -->
+                <div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
+                    <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-amber-500/50 transition-colors">
+                        <div class="text-amber-500 font-mono text-xs uppercase font-bold mb-1">Nivel 1 • Límite Constitucional</div>
+                        <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-gavel text-amber-500 mr-2"></i>La Regla</h3>
+                        <p class="text-xs text-gray-400">Establece el límite biomecánico e inmutable que garantiza la seguridad del chasis y la pureza del engrama motor del combatiente. Define el <em>"qué debe cumplirse"</em>.</p>
+                    </div>
+
+                    <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-cyan-500/50 transition-colors">
+                        <div class="text-cyan-400 font-mono text-xs uppercase font-bold mb-1">Nivel 2 • Telemetría</div>
+                        <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-table text-cyan-400 mr-2"></i>La Plantilla</h3>
+                        <p class="text-xs text-gray-400">Receptáculo físico estructurado donde se registran metadatos y telemetría biológica del atleta, desterrando notas libres y subjetividades. Define el <em>"dónde se registra"</em>.</p>
+                    </div>
+
+                    <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-amber-500/50 transition-colors">
+                        <div class="text-amber-500 font-mono text-xs uppercase font-bold mb-1">Nivel 3 • Hoja de Ruta Algorítmica</div>
+                        <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-diagram-project text-amber-500 mr-2"></i>El P.A.O.</h3>
+                        <p class="text-xs text-gray-400">Protocolo de Aplicación Operativa: guía procedimental paso a paso que instruye al operador sobre cómo rellenar plantillas y aplicar reglas sin sesgo. Define el <em>"cómo se procede"</em>.</p>
+                    </div>
+                </div>
+
+                <!-- Principle of Flow Continuity callout -->
+                <div class="bg-amber-500/10 border border-amber-500/30 rounded-xl p-5 mt-6">
+                    <h4 class="text-amber-400 font-bold uppercase text-sm flex items-center gap-2 mb-2">
+                        <i class="fa-solid fa-arrows-spin text-lg"></i>
+                        Principio Rector Supremo: Regla de Continuidad de Flujo
+                    </h4>
+                    <p class="text-xs sm:text-sm text-gray-300">
+                        La famosa expresión <code class="bg-tactical-900 px-2 py-0.5 rounded text-amber-300 font-mono">A+D+A = 1</code> constituye un modelo paradigmático de integración temporal y funcional (Ataque + Defensa + Continuidad sin bloques independientes), y <strong>NO una secuencia fija u obligatoria</strong>. En el Codex, toda retracción o transición de masa es la defensa activa y la precarga bioeléctrica del siguiente ataque, erradicando los tiempos muertos.
+                    </p>
+                </div>
             </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
@@ -188,38 +242,118 @@
     <section id="para-que-sirve" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
         <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
             <div class="flex items-center gap-3 mb-6">
-                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">2</div>
-                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">¿PARA QUÉ SIRVE?</h2>
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    2
+                </div>
+                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                    ¿PARA QUÉ SIRVE?
+                </h2>
             </div>
+
+            <p class="text-gray-300 text-base sm:text-lg mb-8 leading-relaxed">
+                El Codex Bellator sirve como una <strong>plataforma de soberanía y optimización biomecánica integral</strong>. Sus aplicaciones abarcan desde la preparación física de alta precisión hasta el combate real en todas las distancias.
+            </p>
+
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <div class="bg-tactical-900/90 p-6 rounded-xl border border-tactical-700/80 flex gap-4">
-                    <div class="text-amber-500 text-2xl shrink-0"><i class="fa-solid fa-stopwatch-20"></i></div>
+                <!-- Card 1 -->
+                <div class="bg-tactical-900/90 p-6 rounded-xl border border-tactical-700/80 hover:border-amber-500/40 transition-all flex gap-4">
+                    <div class="text-amber-500 text-2xl shrink-0">
+                        <i class="fa-solid fa-stopwatch-20"></i>
+                    </div>
                     <div>
-                        <h3 class="text-lg font-bold text-white mb-2">Anulación de Latencia Reactiva</h3>
-                        <p class="text-xs sm:text-sm text-gray-400">Permite detectar microseñales y vectores de intención antes de que el golpe o derribo madure, disparando la respuesta en la génesis.</p>
+                        <h3 class="text-lg font-bold text-white mb-2">Anulación de Latencia Reactiva (Tiempo Cero)</h3>
+                        <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
+                            Permite al peleador detectar las microseñales biomecánicas del oponente antes de que su golpe madure, disparando el vector de intercepción en la génesis ($FF1$) e invalidando el tiempo de respuesta convencional (~200ms).
+                        </p>
                     </div>
                 </div>
-                <div class="bg-tactical-900/90 p-6 rounded-xl border border-tactical-700/80 flex gap-4">
-                    <div class="text-cyan-400 text-2xl shrink-0"><i class="fa-solid fa-shield-virus"></i></div>
+
+                <!-- Card 2 -->
+                <div class="bg-tactical-900/90 p-6 rounded-xl border border-tactical-700/80 hover:border-cyan-500/40 transition-all flex gap-4">
+                    <div class="text-cyan-400 text-2xl shrink-0">
+                        <i class="fa-solid fa-shield-virus"></i>
+                    </div>
                     <div>
-                        <h3 class="text-lg font-bold text-white mb-2">Protección del Chasis y Eficiencia</h3>
-                        <p class="text-xs sm:text-sm text-gray-400">Mediante el Umbral de Velocidad Crítica (UVC 10%), erradica el volumen de entrenamiento basura, previniendo lesiones articulares y sobrecargas del S.N.C.</p>
+                        <h3 class="text-lg font-bold text-white mb-2">Protección del Chasis y Prevención de Lesiones</h3>
+                        <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
+                            Mediante el <strong>Umbral de Velocidad Crítica (UVC 10%)</strong> y el protocolo de Chasis Seguro, aborta de forma automática las series cuando la velocidad cae, erradicando el "volumen basura" que degrada las articulaciones y corrompe el engrama.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="bg-tactical-900/90 p-6 rounded-xl border border-tactical-700/80 hover:border-amber-500/40 transition-all flex gap-4">
+                    <div class="text-amber-500 text-2xl shrink-0">
+                        <i class="fa-solid fa-person-ripping"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold text-white mb-2">Unificación Striking & Grappling / Suelo</h3>
+                        <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
+                            Aplica de manera idéntica en combate de pie y combate de agarre (Judo, Lucha, BJJ). Rige la presión gravitacional cohesiva ($PFM-2$) y las cuñas mecánicas ($PFM-3$) para neutralizar barridos y derribos sin perder la plomada.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="bg-tactical-900/90 p-6 rounded-xl border border-tactical-700/80 hover:border-cyan-500/40 transition-all flex gap-4">
+                    <div class="text-cyan-400 text-2xl shrink-0">
+                        <i class="fa-solid fa-chart-line"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold text-white mb-2">Auditoría Cuantitativa Transparente</h3>
+                        <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
+                            Proporciona a entrenadores y atletas indicadores matemáticos inexpugnables ($IGD$, $I.I.S.$, $I.P.F.$) para evaluar la frescura neural y tomar decisiones adaptativas con el algoritmo <strong>IA-P1</strong>.
+                        </p>
                     </div>
                 </div>
             </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
     <!-- SECTION 3: ¿CUÁL ES SU OBJETIVO? -->
     <section id="objetivo" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
-        <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
+        <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl relative overflow-hidden">
             <div class="flex items-center gap-3 mb-6">
-                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">3</div>
-                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">¿CUÁL ES SU OBJETIVO?</h2>
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    3
+                </div>
+                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                    ¿CUÁL ES SU OBJETIVO?
+                </h2>
             </div>
-            <p class="text-gray-300 text-base leading-relaxed">
-                Alcanzar la <span class="text-amber-400 font-bold">Soberanía Neural y la Inevitabilidad Táctica</span>, dominando de manera absoluta el espacio-tiempo del combate (Kairós) y maximizando la rentabilidad biológica de cada sesión de entrenamiento físico y técnico.
-            </p>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 items-center">
+                <div class="lg:col-span-2 space-y-4 text-gray-300 text-base leading-relaxed">
+                    <p class="text-lg font-semibold text-white">
+                        La finalidad suprema perseguida por la Ciencia de Combate Unificado es alcanzar la <span class="text-amber-400 underline decoration-amber-500/50">Soberanía Neural y la Inevitabilidad Táctica</span> en la contienda.
+                    </p>
+                    <p>
+                        El objetivo no es simplemente ganar un asalto mediante desgaste aleatorio, sino <strong>dominar el espacio-tiempo de la pelea (Kairós)</strong>, erradicando la duda, la vacilación y los tiempos muertos a través de las 5 dimensiones del engrama motor subcortical (Estado de Integración $EI-5$).
+                    </p>
+                    <ul class="space-y-2 text-xs sm:text-sm font-mono text-gray-300 pt-2">
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Desatar el reclutamiento voluntario instantáneo de Fibras Rápidas Tipo IIa y IIx.</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Reprogramar las respuestas reactivas para ser procesadas en el cerebelo en silencio cognitivo.</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Maximizar la rentabilidad biológica del entrenamiento mediante el Índice de Costo-Beneficio ($ICB$).</li>
+                    </ul>
+                </div>
+
+                <!-- Goal Pillar Highlight Box -->
+                <div class="bg-gradient-to-br from-amber-500/20 to-tactical-900 border border-amber-500/40 p-6 rounded-xl text-center glow-amber">
+                    <i class="fa-solid fa-bullseye text-4xl text-amber-400 mb-3 block"></i>
+                    <h3 class="font-black text-white text-lg uppercase tracking-wider mb-2">Meta Final</h3>
+                    <p class="text-xs text-amber-200/80 leading-relaxed font-mono">
+                        "Convertir la respuesta defensiva y ofensiva en una sola vibración cinemática indivisible en Tiempo Cero (Lin Sil Die Dar)."
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
@@ -227,28 +361,184 @@
     <section id="como-funciona" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
         <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
             <div class="flex items-center gap-3 mb-6">
-                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">4</div>
-                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">¿CÓMO FUNCIONA?</h2>
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    4
+                </div>
+                <div>
+                    <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                        ¿CÓMO FUNCIONA?
+                    </h2>
+                    <p class="text-xs text-amber-400 font-mono uppercase">Estructura algorítmica y arquitectura de lazo cerrado</p>
+                </div>
             </div>
-            <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 border-b border-tactical-700 pb-4" role="tablist">
-                <button data-target="content-vafp" role="tab" aria-selected="true" class="tab-btn active px-3 py-2 rounded-lg text-xs font-bold uppercase transition-all bg-amber-500 text-black shadow-md">1. Motor V.A.F.P.</button>
-                <button data-target="content-pfm" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300">2. Principios P.F.M.</button>
-                <button data-target="content-lazo" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300">3. CNS & M.C.C.</button>
+
+            <!-- Interfaz Interactiva de Pestañas (Modificada para separar JS y HTML, añadiendo atributos ARIA) -->
+            <div class="mb-6 grid grid-cols-2 sm:grid-cols-3 gap-2 border-b border-tactical-700 pb-4" role="tablist">
+                <button data-target="content-vafp" role="tab" aria-selected="true" class="tab-btn active px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-amber-500 text-black shadow-md">
+                    1. Motor V.A.F.P.
+                </button>
+                <button data-target="content-pfm" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300 hover:bg-tactical-600">
+                    2. Leyes P.F.M.
+                </button>
+                <button data-target="content-lazo" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300 hover:bg-tactical-600">
+                    3. CNS & MCC
+                </button>
+                <button data-target="content-fase0" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300 hover:bg-tactical-600">
+                    4. Filtro Fase 0
+                </button>
+                <button data-target="content-mdo" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300 hover:bg-tactical-600">
+                    5. M.D.O. (9 Campos)
+                </button>
+                <button data-target="content-paci" role="tab" aria-selected="false" class="tab-btn px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-tactical-700 text-gray-300 hover:bg-tactical-600">
+                    6. Protocolo P.A.C.I.
+                </button>
             </div>
-            <div id="tab-content" class="bg-tactical-900/90 rounded-xl p-6 border border-tactical-700/80 mt-4">
+
+            <!-- Tab Content Containers -->
+            <div id="tab-content" class="bg-tactical-900/90 rounded-xl p-6 border border-tactical-700/80 min-h-[300px]">
+                
+                <!-- V.A.F.P Content -->
                 <div id="content-vafp" class="tab-pane space-y-4" role="tabpanel">
-                    <h3 class="text-lg font-bold text-amber-400">Vector de Anticipación Fisiológica Proyectiva (V.A.F.P.)</h3>
-                    <p class="text-sm text-gray-300">Interfaz neurobiológica encargada de comprimir el tiempo de procesamiento cognitivo, permitiendo lecturas de trayectorias y contramedidas automatizadas en milisegundos.</p>
+                    <div class="flex items-center justify-between border-b border-tactical-700 pb-3">
+                        <h3 class="text-base sm:text-lg font-bold text-amber-400">Vector de Anticipación Fisiológica Proyectiva (V.A.F.P.)</h3>
+                        <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Motor Neuronal Principal</span>
+                    </div>
+                    <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
+                        Es la interfaz neurobiológica encargada de comprimir el tiempo de procesamiento y ejecutar intercepciones sin latencia reactiva ($T0$).
+                    </p>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3 pt-2">
+                        <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
+                            <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">V • Vector</div>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Selección instantánea de la trayectoria de menor resistencia sin movimientos parásitos.</p>
+                        </div>
+                        <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
+                            <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">A • Anticipación</div>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Escaneo automático subcortical de microseñales biomecánicas (hombro, fijación ocular).</p>
+                        </div>
+                        <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
+                            <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">F • Focalización</div>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Silencio cognitivo y barrido de la duda; colapso neuromuscular coordinado.</p>
+                        </div>
+                        <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
+                            <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">P • Proyección</div>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Materialización de la fuerza proyectada a través del eje enemigo sin desaceleración previa.</p>
+                        </div>
+                    </div>
                 </div>
+
+                <!-- P.F.M. Content -->
                 <div id="content-pfm" class="tab-pane hidden space-y-4" role="tabpanel">
-                    <h3 class="text-lg font-bold text-cyan-400">Principios Fundamentales del Movimiento (P.F.M.)</h3>
-                    <p class="text-sm text-gray-300">Leyes físicas y mecánicas rectoras que gobiernan la geometría corporal, palancas y transferencia óptima de energía cinética en striking y grappling.</p>
+                    <div class="flex items-center justify-between border-b border-tactical-700 pb-3">
+                        <h3 class="text-base sm:text-lg font-bold text-cyan-400">Principios Fundamentales del Movimiento (P.F.M.)</h3>
+                        <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">Leyes Biomecánicas Inmutables</span>
+                    </div>
+                    <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
+                        Las 3 leyes físicas rectoras que gobiernan la geometría corporal tanto en Golpeo (Striking) como en Agarre/Suelo (Grappling/Lucha/BJJ):
+                    </p>
+                    <div class="space-y-3 pt-2">
+                        <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
+                            <div class="text-amber-400 font-bold text-xs sm:text-sm font-mono">PFM-1: Eje Estructural</div>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Mantenimiento de la plomada vertical (cabeza-columna-cadera). En lucha/suelo opera como el pivote soberano que impide el colapso del centro de gravedad.</p>
+                        </div>
+                        <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
+                            <div class="text-amber-400 font-bold text-xs sm:text-sm font-mono">PFM-2: Transferencia de Masa Cohesiva</div>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Inercia unificada del chasis. En el tapiz se transmutación en presión gravitacional sin espacios intersticiales sobre el oponente.</p>
+                        </div>
+                        <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
+                            <div class="text-amber-400 font-bold text-xs sm:text-sm font-mono">PFM-3: Vectorización de Palancas y Cuñas</div>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Cambios angulares de fuerza perpendiculares a los límites articulares rivales y ocupación agresiva de líneas centrales con codos/rodillas.</p>
+                        </div>
+                    </div>
                 </div>
+
+                <!-- Lazo Cerrado Content -->
                 <div id="content-lazo" class="tab-pane hidden space-y-4" role="tabpanel">
-                    <h3 class="text-lg font-bold text-amber-400">C.N.S. & M.C.C.</h3>
-                    <p class="text-sm text-gray-300">Arquitectura de control dinámico que supervisa el sistema nervioso central y ejecuta el Mecanismo de Compensación Continua para corregir fallos estructurales antes del colapso.</p>
+                    <div class="flex items-center justify-between border-b border-tactical-700 pb-3">
+                        <h3 class="text-base sm:text-lg font-bold text-amber-400">C.N.S. & M.C.C. • Arquitectura de Control Dinámico</h3>
+                        <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Lazo Cerrado Desacoplado</span>
+                    </div>
+                    <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
+                        Ningún mecanismo ejecutor debe supervisarse a sí mismo. Por ello, el Codex separa la vigilancia de la ejecución:
+                    </p>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
+                        <div class="p-4 bg-tactical-800 rounded-lg border border-amber-500/30">
+                            <h4 class="font-bold text-amber-400 text-xs sm:text-sm mb-1"><i class="fa-solid fa-eye mr-2"></i>C.N.S. (Centro de Supervisión Neuronal)</h4>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-400">Módulo supervisor independiente. Vigila en segundo plano desviaciones mecánicas sin intervenir en el flujo voluntario.</p>
+                        </div>
+                        <div class="p-4 bg-tactical-800 rounded-lg border border-cyan-500/30">
+                            <h4 class="font-bold text-cyan-400 text-xs sm:text-sm mb-1"><i class="fa-solid fa-wrench mr-2"></i>M.C.C. (Mecanismo de Compensación Continua)</h4>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-400">Inyecta micro-ajustes reflejos en pleno vuelo (MCC-V, A, F o P) ante la señal del C.N.S., salvando la estructura antes del colapso.</p>
+                        </div>
+                    </div>
                 </div>
+
+                <!-- Fase 0 Content -->
+                <div id="content-fase0" class="tab-pane hidden space-y-4" role="tabpanel">
+                    <div class="flex items-center justify-between border-b border-tactical-700 pb-3">
+                        <h3 class="text-base sm:text-lg font-bold text-cyan-400">Fase 0: Formulario de Viabilidad Doctrinal (Filtro de Ingesta)</h3>
+                        <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">7 Preguntas de Control</span>
+                    </div>
+                    <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
+                        Cortafuegos obligatorio antes de invertir recursos en diseñar un drill. Evalúa si la idea es VIABLE o NO VIABLE:
+                    </p>
+                    <ol class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs sm:text-sm leading-relaxed font-mono text-gray-300 pt-2 space-y-1">
+                        <li class="p-2 bg-tactical-800 rounded border border-amber-500/30"><span class="text-amber-400 font-bold">1. Principio Mecánico (Gate #1):</span> ¿Respeta las leyes físicas de los P.F.M.?</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">2. Objetivo V.A.F.P.:</span> Propósito de aceleración/ anticipación.</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">3. Función:</span> Clasificación A-D de la A.F.E.</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">4. Adaptación:</span> Reclutamiento de Fibras IIa/IIx.</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">5. Datos:</span> F-Codes diagnosticables (F1-F4).</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">6. Medición:</span> Control por S.M.V. & 10% UVC.</li>
+                        <li class="p-2 bg-tactical-800 rounded border border-cyan-500/30 sm:col-span-2"><span class="text-cyan-400 font-bold">7. Decisión & Optimización:</span> Reglas IA-P1 & ratio ICB.</li>
+                    </ol>
+                </div>
+
+                <!-- MDO Content -->
+                <div id="content-mdo" class="tab-pane hidden space-y-4" role="tabpanel">
+                    <div class="flex items-center justify-between border-b border-tactical-700 pb-3">
+                        <h3 class="text-base sm:text-lg font-bold text-amber-400">M.D.O. • Modelo de Diseño Operativo</h3>
+                        <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Ficha Técnica de 9 Campos</span>
+                    </div>
+                    <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
+                        Ningún ejercicio ingresa a la base de datos de las Series P sin completar estos 9 parámetros de ingeniería:
+                    </p>
+                    <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 text-xs sm:text-sm leading-relaxed font-mono pt-2">
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">1.</span> Objetivo V.A.F.P.</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">2.</span> Perturbación Inducida</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">3.</span> Fallo Esperado (F1-F4)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">4.</span> Criterio de Éxito</div>
+                        <div class="p-2 bg-tactical-800 rounded border border-amber-500/40"><span class="text-amber-400">5.</span> Intensidad (Caos I-V)*</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">6.</span> Variabilidad Vectorial</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">7.</span> Transferencia S.C.I.T.O.</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">8.</span> Métrica Cuantitativa</div>
+                        <div class="p-2 bg-tactical-800 rounded border border-cyan-500/40"><span class="text-cyan-400">9.</span> Principio Mecánico PFM</div>
+                    </div>
+                    <p class="text-[10px] sm:text-xs leading-relaxed text-amber-300/80 italic mt-2">
+                        *Aclaración Doctrinal: La escala de Intensidad I al V mide el nivel de caos ambiental y sobrecarga cognitiva, NO el esfuerzo concéntrico muscular (el cual es SIEMPRE 100% máximo voluntario).
+                    </p>
+                </div>
+
+                <!-- PACI Content -->
+                <div id="content-paci" class="tab-pane hidden space-y-4" role="tabpanel">
+                    <div class="flex items-center justify-between border-b border-tactical-700 pb-3">
+                        <h3 class="text-base sm:text-lg font-bold text-cyan-400">Protocolo P.A.C.I. (Microciclo SCA-1 de 7 Días)</h3>
+                        <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">Día 0 de Inicialización</span>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2 text-xs sm:text-sm leading-relaxed pt-2">
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 1:</b> Potencia (Floor Press/ front squat)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 2:</b> Reacción (TR estocástico ms)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 3:</b> Cinética (Fugas rotacionales)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 4:</b> Toma de Decisión (Ratio vacilación)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500"><b class="text-cyan-400">Día 5:</b> Reactividad (Contacto muelle ms)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500"><b class="text-cyan-400">Día 6:</b> Lazo Cerrado (Guardia ósea)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500 sm:col-span-2"><b class="text-cyan-400">Día 7:</b> Auditoría S.M.V. (Cálculo IGD inicial & UVC)</div>
+                    </div>
+                </div>
+
             </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
@@ -256,92 +546,306 @@
     <section id="realmente-funciona" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
         <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
             <div class="flex items-center gap-3 mb-6">
-                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">5</div>
-                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">¿REALMENTE FUNCIONA?</h2>
-            </div>
-            <div class="bg-tactical-900/90 rounded-2xl p-6 border border-amber-500/40 glow-amber">
-                <h3 class="font-bold text-white text-base mb-2"><i class="fa-solid fa-calculator text-amber-400 mr-2"></i>Simulador S.M.V. (Cálculo IGD)</h3>
-                <p class="text-xs text-gray-400 mb-4">Ajuste los valores de software técnico para comprobar el índice global y verificar la cláusula de voto de censura doctrinal:</p>
-                <div class="space-y-3">
-                    <div>
-                        <div class="flex justify-between text-xs font-mono mb-1">
-                            <span class="text-gray-300">Software Técnico (ST)</span>
-                            <span id="val-st" class="text-amber-400 font-bold">4.5</span>
-                        </div>
-                        <input type="range" id="input-st" min="1" max="10" step="0.5" value="4.5" class="igd-input w-full accent-amber-500 bg-tactical-700 h-2 rounded-lg cursor-pointer">
-                    </div>
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    5
                 </div>
-                <div id="status-box" class="p-3 rounded-xl border mt-4 bg-red-500/20 border-red-500 text-red-300 text-center text-xs font-mono">
-                    PROGRESIÓN BLOQUEADA: Voto de Censura Activo (ST < 5.0)
+                <div>
+                    <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                        ¿REALMENTE FUNCIONA?
+                    </h2>
+                    <p class="text-xs text-amber-400 font-mono uppercase">Evidencia, Neurofisiología y Criterios Matemáticos de Comprobación</p>
+                </div>
+            </div>
+
+            <!-- Scientific Foundations Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+                <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
+                    <div class="text-amber-500 font-bold text-sm mb-2"><i class="fa-solid fa-microscope mr-2"></i>Principio de Henneman</div>
+                    <p class="text-xs text-gray-400 leading-relaxed">
+                        Anula el reclutamiento lento mediante la <strong>Intención de Movimiento Absoluta y Rate Coding</strong>, forzando la activación inmediata de Fibras Rápidas Tipo IIa y IIx.
+                    </p>
+                </div>
+
+                <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
+                    <div class="text-cyan-400 font-bold text-sm mb-2"><i class="fa-solid fa-bolt mr-2"></i>PAP & Regla del 10% UVC</div>
+                    <p class="text-xs text-gray-400 leading-relaxed">
+                        Usa Potenciación Post-Activación y detiene la serie en el milisegundo en que la velocidad concéntrica cae un 10% (Umbral de Velocidad Crítica).
+                    </p>
+                </div>
+
+                <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
+                    <div class="text-amber-500 font-bold text-sm mb-2"><i class="fa-solid fa-bug mr-2"></i>Taxonomía F-Codes</div>
+                    <p class="text-xs text-gray-400 leading-relaxed">
+                        Clasifica errores: <b>F1 Vector</b> (contenido), <b>F2 Anticipación</b>, <b>F3 Focalización</b> (CATASTRÓFICO por desencadenar Cascada Sistémica), y <b>F4 Proyección</b>.
+                    </p>
+                </div>
+            </div>
+
+            <!-- INTERACTIVE SIMULATOR: IGD CALCULATOR & SOFTWARE VETO CLAUSE -->
+            <div class="bg-tactical-900/90 rounded-2xl p-4 sm:p-6 border border-amber-500/40 glow-amber">
+                <div class="flex flex-col gap-2 border-b border-tactical-700 pb-3 mb-4">
+                    <h3 class="font-bold text-white text-sm sm:text-base flex items-start gap-2 leading-tight">
+                        <i class="fa-solid fa-calculator text-amber-400 mt-0.5"></i>
+                        Simulador S.M.V.: Calculador de IGD y Cláusula de Voto de Censura
+                    </h3>
+                    <span class="text-[9px] font-mono text-amber-400 bg-amber-500/10 px-2 py-1 rounded self-start whitespace-nowrap">
+                        Interactive Tool
+                    </span>
+                </div>
+
+                <p class="text-xs text-gray-400 mb-6">
+                    Ajusta los niveles de cada dimensión para evaluar el Índice Global de Desarrollo ($IGD$). Observa cómo opera la <strong>Cláusula de Voto de Censura de Software</strong> si Técnica o Táctica caen por debajo de 5.0:
+                </p>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="space-y-4">
+                        <!-- Slider 1 -->
+                        <div>
+                            <div class="flex justify-between text-xs font-mono mb-1">
+                                <span class="text-gray-300">1. Hardware Físico (20%)</span>
+                                <span id="val-hf" class="text-amber-400 font-bold">8.0</span>
+                            </div>
+                            <input type="range" id="input-hf" min="1" max="10" step="0.5" value="8" class="igd-input w-full accent-amber-500 bg-tactical-700 h-2 rounded-lg cursor-pointer">
+                        </div>
+
+                        <!-- Slider 2 -->
+                        <div>
+                            <div class="flex justify-between text-xs font-mono mb-1">
+                                <span class="text-gray-300">2. Hardware Neural (20%)</span>
+                                <span id="val-hn" class="text-amber-400 font-bold">8.0</span>
+                            </div>
+                            <input type="range" id="input-hn" min="1" max="10" step="0.5" value="8" class="igd-input w-full accent-amber-500 bg-tactical-700 h-2 rounded-lg cursor-pointer">
+                        </div>
+
+                        <!-- Slider 3 (Software) -->
+                        <div class="bg-amber-500/10 p-2 rounded border border-amber-500/30">
+                            <div class="flex justify-between text-xs font-mono mb-1">
+                                <span class="text-amber-300 font-bold">3. Software Técnico (20%) *</span>
+                                <span id="val-st" class="text-amber-400 font-bold">4.5</span>
+                            </div>
+                            <input type="range" id="input-st" min="1" max="10" step="0.5" value="4.5" class="igd-input w-full accent-amber-500 bg-tactical-700 h-2 rounded-lg cursor-pointer">
+                        </div>
+
+                        <!-- Slider 4 (Software) -->
+                        <div class="bg-amber-500/10 p-2 rounded border border-amber-500/30">
+                            <div class="flex justify-between text-xs font-mono mb-1">
+                                <span class="text-amber-300 font-bold">4. Software Táctico (20%) *</span>
+                                <span id="val-ste" class="text-amber-400 font-bold">7.0</span>
+                            </div>
+                            <input type="range" id="input-ste" min="1" max="10" step="0.5" value="7" class="igd-input w-full accent-amber-500 bg-tactical-700 h-2 rounded-lg cursor-pointer">
+                        </div>
+
+                        <!-- Slider 5 -->
+                        <div>
+                            <div class="flex justify-between text-xs font-mono mb-1">
+                                <span class="text-gray-300">5. Gobierno Mental (20%)</span>
+                                <span id="val-gm" class="text-amber-400 font-bold">8.0</span>
+                            </div>
+                            <input type="range" id="input-gm" min="1" max="10" step="0.5" value="8" class="igd-input w-full accent-amber-500 bg-tactical-700 h-2 rounded-lg cursor-pointer">
+                        </div>
+                    </div>
+
+                    <!-- Output Status Screen -->
+                    <div class="bg-tactical-800 p-6 rounded-xl border border-tactical-700 flex flex-col justify-between text-center">
+                        <div>
+                            <span class="text-xs font-mono text-gray-400 uppercase tracking-widest block mb-1">Resultado de Auditoría S.M.V.</span>
+                            <div id="igd-score" class="text-4xl sm:text-5xl font-black font-mono text-amber-400 my-2">7.10</div>
+                            <span class="text-xs text-gray-400 font-mono">IGD Ponderado Bruto</span>
+                        </div>
+
+                        <div id="status-box" class="p-3 rounded-xl border mt-4 transition-all bg-red-500/20 border-red-500 text-red-300 w-full max-w-none text-center">
+                            <div class="font-black text-[10px] uppercase flex items-center justify-center gap-1 mb-1 text-center leading-tight">
+                                <i class="fa-solid fa-ban"></i> PROGRESIÓN BLOQUEADA
+                            </div>
+                            <p class="text-[10px] leading-relaxed text-center">
+                                VOTO DE CENSURA ACTIVO: Software Técnico &lt; 5.0. Se veta el avance a una nueva campaña independientemente de las notas de Hardware.
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
+        </div>
     </section>
 
-    <!-- SECTION 6: DIFERENCIAS METODOLÓGICAS -->
+    <!-- SECTION 6: ¿QUÉ LO DIFERENCIA DE LAS METODOLOGÍAS ACTUALES? -->
     <section id="diferencias" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
         <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
             <div class="flex items-center gap-3 mb-6">
-                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">6</div>
-                <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">¿QUÉ LO DIFERENCIA?</h2>
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    6
+                </div>
+                <div>
+                    <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                        ¿QUÉ LO DIFERENCIA DE LAS METODOLOGÍAS ACTUALES?
+                    </h2>
+                    <p class="text-xs text-amber-400 font-mono uppercase">Comparación Conceptual y Paradigmática</p>
+                </div>
             </div>
-            <p class="text-gray-300 text-base leading-relaxed">
-                A diferencia de los métodos tradicionales empíricos y secuenciales basados en repetición ciega y alta latencia, el <strong>Codex Bellator</strong> opera en paralelo bajo esquemas de telemetría y auditorías cuantitativas objetivas, garantizando adaptabilidad y precisión quirúrgica.
-            </p>
+
+            <!-- Detailed Comparison Blocks -->
+            <div class="space-y-3">
+                <div class="bg-tactical-900/70 rounded-xl border border-tactical-700 p-4">
+                    <h4 class="text-xs font-black uppercase text-amber-400 mb-2">Temporalidad</h4>
+                    <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
+                        <div>
+                            <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
+                            <span class="text-gray-300"> Secuencial / Serie (Bloqueo T1 → Golpe T2). Latencia reactiva alta (~200ms).</span>
+                        </div>
+                        <div>
+                            <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
+                            <span class="text-gray-300"> Paralelo / Kairós (Tiempo Cero $T0$). Intercepción simultánea (Lin Sil Die Dar).</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-tactical-900/70 rounded-xl border border-tactical-700 p-4">
+                    <h4 class="text-xs font-black uppercase text-amber-400 mb-2">Evaluación y Criterio de Éxito</h4>
+                    <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
+                        <div>
+                            <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
+                            <span class="text-gray-300"> Subjetivo, basado en volumen de esfuerzo y agotamiento perceptual sin métricas científicas.</span>
+                        </div>
+                        <div>
+                            <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
+                            <span class="text-gray-300"> Auditoría Cuantitativa S.M.V., Umbral de Velocidad Crítica (UVC 10%) y Voto de Censura.</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-tactical-900/70 rounded-xl border border-tactical-700 p-4">
+                    <h4 class="text-xs font-black uppercase text-amber-400 mb-2">Integración de Disciplinas</h4>
+                    <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
+                        <div>
+                            <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
+                            <span class="text-gray-300"> Fragmentación entre striking, derribos y trabajo de suelo en fases aisladas.</span>
+                        </div>
+                        <div>
+                            <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
+                            <span class="text-gray-300"> Matriz biomecánica unificada mediante Leyes P.F.M. aplicadas con igual precisión en pie y tapiz.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
-    <!-- NUEVO APARTADO: REDES SOCIALES Y CANALES OFICIALES -->
-    <section id="redes" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
-        <div class="bg-tactical-800/80 border-2 border-amber-500/60 rounded-2xl p-6 sm:p-10 shadow-xl text-center">
-            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/20 border border-amber-500/40 text-amber-400 text-xs font-mono mb-4">
-                <i class="fa-solid fa-satellite-dish"></i> Transmisión y Difusión Doctrinal
+    <!-- NUEVOS BLOQUES DEDICADOS PARA ENLACES INSTITUCIONALES DE YOUTUBE Y SPOTIFY -->
+    <section id="multimedia" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
+        <div class="bg-tactical-800/60 border border-tactical-700/80 rounded-2xl p-6 sm:p-10 shadow-xl">
+            <div class="flex items-center gap-3 mb-6">
+                <div class="w-10 h-10 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center text-lg font-bold">
+                    <i class="fa-solid fa-podcast"></i>
+                </div>
+                <div>
+                    <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight leading-tight">
+                        CANALES INSTITUCIONALES & MULTIMEDIA
+                    </h2>
+                    <p class="text-xs text-amber-400 font-mono uppercase">Repositorio Audiovisual y Podcast Oficial del Codex</p>
+                </div>
             </div>
-            <h2 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight mb-6">
-                CANALES OFICIALES
-            </h2>
-            <p class="text-gray-300 text-sm sm:text-base max-w-2xl mx-auto mb-8">
-                Acceda a las transmisiones, análisis tácticos y contenidos audibles oficiales del Codex Bellator a través de nuestras plataformas autorizadas:
+
+            <p class="text-gray-300 text-base sm:text-lg mb-8 leading-relaxed">
+                Accede a las transmisiones en video, análisis biomecánicos en profundidad y programas de audio oficiales del Codex Bellator en nuestras plataformas institucionales:
             </p>
-            <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
-                <!-- Canal de YouTube -->
-                <a href="https://youtube.com/@cbau_oficial?si=kCZbinpbCuyRJNiU" 
-                   target="_blank" 
-                   rel="noopener noreferrer" 
-                   class="w-full sm:w-auto px-6 py-4 bg-red-600 hover:bg-red-500 text-white font-bold uppercase tracking-wider text-sm rounded-xl transition-all shadow-lg flex items-center justify-center gap-3">
-                    <i class="fa-brands fa-youtube text-xl"></i>
-                    <span>Canal Oficial de YouTube</span>
-                    <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
-                </a>
-                <!-- Canal de Spotify -->
-                <a href="https://open.spotify.com/show/3TW9W430Awp2kJrsfyQmPD?si=jmxnEVngRR-X1-TL6p2yig&utm_source=copy-link" 
-                   target="_blank" 
-                   rel="noopener noreferrer" 
-                   class="w-full sm:w-auto px-6 py-4 bg-emerald-600 hover:bg-emerald-500 text-white font-bold uppercase tracking-wider text-sm rounded-xl transition-all shadow-lg flex items-center justify-center gap-3">
-                    <i class="fa-brands fa-spotify text-xl"></i>
-                    <span>Canal Oficial de Spotify</span>
-                    <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
-                </a>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <!-- YouTube Block -->
+                <div class="bg-tactical-900/90 p-6 rounded-xl border border-red-500/30 hover:border-red-500/60 transition-all flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center gap-3 mb-4">
+                            <div class="w-12 h-12 rounded-xl bg-red-600/20 text-red-500 flex items-center justify-center text-2xl">
+                                <i class="fa-brands fa-youtube"></i>
+                            </div>
+                            <div>
+                                <h3 class="text-lg font-bold text-white">Canal Oficial de YouTube</h3>
+                                <span class="text-xs font-mono text-red-400">Demostraciones Prácticas & Drills V.A.F.P.</span>
+                            </div>
+                        </div>
+                        <p class="text-xs sm:text-sm text-gray-400 leading-relaxed mb-6">
+                            Visualiza la ejecución correcta de las Leyes P.F.M., análisis de combates en Tiempo Cero ($T0$) y seminarios presenciales del sistema.
+                        </p>
+                    </div>
+                    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" class="w-full px-4 py-3 bg-red-600 hover:bg-red-500 text-white font-bold uppercase tracking-wider text-xs rounded-xl transition-all flex items-center justify-center gap-2 shadow-lg shadow-red-600/20">
+                        <i class="fa-solid fa-play"></i>
+                        <span>Visitar Canal de YouTube</span>
+                        <i class="fa-solid fa-arrow-up-right-from-square text-[10px] ml-auto"></i>
+                    </a>
+                </div>
+
+                <!-- Spotify Block -->
+                <div class="bg-tactical-900/90 p-6 rounded-xl border border-emerald-500/30 hover:border-emerald-500/60 transition-all flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center gap-3 mb-4">
+                            <div class="w-12 h-12 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center text-2xl">
+                                <i class="fa-brands fa-spotify"></i>
+                            </div>
+                            <div>
+                                <h3 class="text-lg font-bold text-white">Podcast Oficial en Spotify</h3>
+                                <span class="text-xs font-mono text-emerald-400">Doctrina Sonora & Telemetría Biológica</span>
+                            </div>
+                        </div>
+                        <p class="text-xs sm:text-sm text-gray-400 leading-relaxed mb-6">
+                            Escucha las conferencias doctrinales, discusiones sobre neurofisiología aplicada y la estructura teórica del Codex en formato de audio de alta fidelidad.
+                        </p>
+                    </div>
+                    <a href="https://spotify.com" target="_blank" rel="noopener noreferrer" class="w-full px-4 py-3 bg-emerald-600 hover:bg-emerald-500 text-white font-bold uppercase tracking-wider text-xs rounded-xl transition-all flex items-center justify-center gap-2 shadow-lg shadow-emerald-600/20">
+                        <i class="fa-solid fa-podcast"></i>
+                        <span>Escuchar en Spotify</span>
+                        <i class="fa-solid fa-arrow-up-right-from-square text-[10px] ml-auto"></i>
+                    </a>
+                </div>
             </div>
+        </div>
+
+        <div class="my-8 text-amber-500/80 text-3xl text-center">
+            <i class="fa-solid fa-chevron-down"></i>
         </div>
     </section>
 
-    <!-- SECCIÓN DE DESCARGA -->
+    <!-- SECCIÓN DE DESCARGA: CODEX BELLATOR — DOCUMENTO COMPLETO -->
     <section id="descarga" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
-        <div class="bg-tactical-800/80 border-2 border-amber-500/80 rounded-2xl p-6 sm:p-10 shadow-2xl glow-amber text-center">
-            <h2 class="text-2xl sm:text-4xl font-black text-white uppercase tracking-tight mb-4">
+        <div class="bg-tactical-800/80 border-2 border-amber-500/80 rounded-2xl p-6 sm:p-10 shadow-2xl glow-amber text-center relative overflow-hidden">
+            <div class="absolute top-0 right-0 w-40 h-40 bg-amber-500/10 rounded-full blur-3xl pointer-events-none"></div>
+            <div class="absolute bottom-0 left-0 w-40 h-40 bg-cyan-500/10 rounded-full blur-3xl pointer-events-none"></div>
+
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/20 border border-amber-500/40 text-amber-400 text-xs font-mono mb-4">
+                <i class="fa-solid fa-file-circle-check"></i> Acceso Directo al Repositorio Doctrinal
+            </div>
+
+            <h2 class="text-2xl sm:text-4xl font-black text-white uppercase tracking-tight mb-4 leading-tight">
                 CODEX BELLATOR — DOCUMENTO COMPLETO
             </h2>
-            <p class="text-gray-300 text-sm sm:text-base mb-8 max-w-2xl mx-auto">
-                Descargue o consulte el repositorio doctrinal completo en Google Drive para profundizar en cada protocolo técnico y matemático.
+
+            <blockquote class="bg-tactical-900/90 border-l-4 border-amber-500 p-4 sm:p-6 rounded-r-xl max-w-3xl mx-auto mb-8 text-left text-gray-300 text-sm sm:text-base leading-relaxed font-medium">
+                <p class="italic">
+                    "Descarga o consulta el documento completo del Codex Bellator: Ars Unified (C.C.U.).
+                    La página presenta una introducción y síntesis del sistema; el documento contiene el desarrollo completo."
+                </p>
+            </blockquote>
+
+            <!-- Botón de Descargar en Google Drive -->
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                <a href="https://docs.google.com/document/d/1YEmlGMu-T34Esf-Be0_Mozz6hsiME5ww/edit?usp=drivesdk&ouid=115977733970390058232&rtpof=true&sd=true" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-black font-black uppercase tracking-wider text-sm rounded-xl transition-all shadow-xl hover:scale-105 flex items-center justify-center gap-3">
+                    <i class="fa-solid fa-file-lines text-lg"></i>
+                    <span>📄 DESCARGAR CODEX COMPLETO EN GOOGLE DRIVE</span>
+                    <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
+                </a>
+            </div>
+            
+            <p class="mt-4 text-xs font-mono text-gray-400">
+                <i class="fa-solid fa-lock text-amber-500 mr-1"></i>Enlace verificado de Google Drive • Documento de estudio y consulta
             </p>
-            <a href="https://docs.google.com/document/d/1YEmlGMu-T34Esf-Be0_Mozz6hsiME5ww/edit?usp=drivesdk&ouid=115977733970390058232&rtpof=true&sd=true" 
-               target="_blank" 
-               rel="noopener noreferrer" 
-               class="inline-flex items-center gap-3 px-8 py-4 bg-amber-500 hover:bg-amber-400 text-black font-black uppercase tracking-wider text-sm rounded-xl transition-all shadow-xl">
-                <i class="fa-solid fa-file-lines text-lg"></i>
-                <span>📄 DESCARGAR CODEX COMPLETO EN GOOGLE DRIVE</span>
-            </a>
         </div>
     </section>
 
@@ -349,60 +853,109 @@
     <footer class="bg-tactical-900 border-t border-tactical-800 py-8 text-center text-xs text-gray-500 font-mono">
         <div class="max-w-7xl mx-auto px-4 space-y-2">
             <p>© CODEX BELLATOR - ARS UNIFIED. Ciencia de Combate Unificado.</p>
-            <p class="text-amber-500/70">Soberanía Neural • Inevitabilidad Táctica • Tiempo Cero (T0)</p>
+            <p class="text-amber-500/70">Soberanía Neural • Inevitabilidad Táctica • Tiempo Cero ($T0$)</p>
         </div>
     </footer>
 
-    <!-- JAVASCRIPT LOGIC -->
+    <!-- INTERACTIVE JAVASCRIPT LOGIC -->
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            // Menú móvil
+            
+            /* --- LÓGICA DEL MENÚ MÓVIL --- */
             const menuBtn = document.getElementById('mobile-menu-btn');
             const mobileMenu = document.getElementById('mobile-menu');
             const mobileLinks = document.querySelectorAll('.mobile-link');
 
             if (menuBtn && mobileMenu) {
-                menuBtn.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
-                mobileLinks.forEach(link => link.addEventListener('click', () => mobileMenu.classList.add('hidden')));
+                menuBtn.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                });
+
+                mobileLinks.forEach(link => {
+                    link.addEventListener('click', () => {
+                        mobileMenu.classList.add('hidden');
+                    });
+                });
             }
 
-            // Pestañas (Tabs)
+            /* --- LÓGICA DE LAS PESTAÑAS (TABS) --- */
             const tabButtons = document.querySelectorAll('.tab-btn');
             const tabPanes = document.querySelectorAll('.tab-pane');
 
             tabButtons.forEach(btn => {
                 btn.addEventListener('click', () => {
                     const targetId = btn.getAttribute('data-target');
+
                     tabPanes.forEach(pane => pane.classList.add('hidden'));
+                    
                     tabButtons.forEach(b => {
                         b.classList.remove('bg-amber-500', 'text-black', 'shadow-md', 'active');
                         b.classList.add('bg-tactical-700', 'text-gray-300');
+                        b.setAttribute('aria-selected', 'false');
                     });
+
                     const targetPane = document.getElementById(targetId);
-                    if (targetPane) targetPane.classList.remove('hidden');
+                    if (targetPane) {
+                        targetPane.classList.remove('hidden');
+                    }
+
                     btn.classList.remove('bg-tactical-700', 'text-gray-300');
                     btn.classList.add('bg-amber-500', 'text-black', 'shadow-md', 'active');
+                    btn.setAttribute('aria-selected', 'true');
                 });
             });
 
-            // Simulador ST
-            const inputSt = document.getElementById('input-st');
-            const valSt = document.getElementById('val-st');
-            const statusBox = document.getElementById('status-box');
+            /* --- LÓGICA DE LA CALCULADORA S.M.V. (IGD) --- */
+            function calculateIGD() {
+                const hf = parseFloat(document.getElementById('input-hf').value);
+                const hn = parseFloat(document.getElementById('input-hn').value);
+                const st = parseFloat(document.getElementById('input-st').value);
+                const ste = parseFloat(document.getElementById('input-ste').value);
+                const gm = parseFloat(document.getElementById('input-gm').value);
 
-            if (inputSt) {
-                inputSt.addEventListener('input', (e) => {
-                    const val = parseFloat(e.target.value);
-                    valSt.innerText = val.toFixed(1);
-                    if (val < 5.0) {
-                        statusBox.className = "p-3 rounded-xl border mt-4 bg-red-500/20 border-red-500 text-red-300 text-center text-xs font-mono";
-                        statusBox.innerText = "PROGRESIÓN BLOQUEADA: Voto de Censura Activo (ST < 5.0)";
-                    } else {
-                        statusBox.className = "p-3 rounded-xl border mt-4 bg-emerald-500/20 border-emerald-500 text-emerald-300 text-center text-xs font-mono";
-                        statusBox.innerText = "PROGRESIÓN AUTORIZADA: Umbral superado (≥ 5.0)";
-                    }
-                });
+                document.getElementById('val-hf').innerText = hf.toFixed(1);
+                document.getElementById('val-hn').innerText = hn.toFixed(1);
+                document.getElementById('val-st').innerText = st.toFixed(1);
+                document.getElementById('val-ste').innerText = ste.toFixed(1);
+                document.getElementById('val-gm').innerText = gm.toFixed(1);
+
+                const igd = (hf * 0.20) + (hn * 0.20) + (st * 0.20) + (ste * 0.20) + (gm * 0.20);
+                document.getElementById('igd-score').innerText = igd.toFixed(2);
+
+                const statusBox = document.getElementById('status-box');
+                if (st < 5.0 || ste < 5.0) {
+                    let failReason = [];
+                    if (st < 5.0) failReason.push('Software Técnico < 5.0');
+                    if (ste < 5.0) failReason.push('Software Táctico < 5.0');
+                    
+                    statusBox.className = "p-3 rounded-xl border mt-4 transition-all bg-red-500/20 border-red-500 text-red-300 w-full max-w-none text-center";
+                    statusBox.innerHTML = `
+                        <div class="font-black text-[10px] uppercase flex items-center justify-center gap-1 mb-1 text-center leading-tight">
+                            <i class="fa-solid fa-ban"></i> PROGRESIÓN BLOQUEADA
+                        </div>
+                        <p class="text-[10px] leading-relaxed text-center">
+                            VOTO DE CENSURA ACTIVO: ${failReason.join(' & ')}. Se veta el avance a una nueva campaña independientemente de las notas de Hardware.
+                        </p>
+                    `;
+                } else {
+                    statusBox.className = "p-3 rounded-xl border mt-4 transition-all bg-emerald-500/20 border-emerald-500 text-emerald-300 w-full max-w-none text-center";
+                    statusBox.innerHTML = `
+                        <div class="font-black text-[10px] uppercase flex items-center justify-center gap-1 mb-1 text-center leading-tight">
+                            <i class="fa-solid fa-circle-check"></i> PROGRESIÓN AUTORIZADA
+                        </div>
+                        <p class="text-[10px] leading-relaxed text-center">
+                            REQUISITOS CUMPLIDOS: Todas las dimensiones de Software superan el umbral de viabilidad (≥ 5.0).
+                        </p>
+                    `;
+                }
             }
+
+            const igdInputs = document.querySelectorAll('.igd-input');
+            igdInputs.forEach(input => {
+                input.addEventListener('input', calculateIGD);
+            });
+
+            calculateIGD();
         });
     </script>
 </body>
