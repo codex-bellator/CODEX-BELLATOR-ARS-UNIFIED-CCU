@@ -190,11 +190,11 @@
 
             <div class="prose prose-invert max-w-none text-gray-300 text-base sm:text-lg leading-relaxed space-y-6">
                 <p class="font-medium text-amber-200/90 text-lg sm:text-xl border-l-4 border-amber-500 pl-4 py-1">
-                    El <strong>Codex Bellator – Ars Unified</strong> es la <strong>Ciencia de Combate Unificado (C.C.U.)</strong>: un sistema cerrado de alta ingeniería humana, neurofisiología aplicada, biomecánica y telemetría biológica concebido para eliminar la entropía metodológica y la improvisación en las artes marciales y deportes de contacto.
+                    El <strong>Codex Bellator – Ars Unified</strong> es la <strong>Ciencia de Combate Unificado (C.C.U.)</strong>: un sistema cerrado de alta ingeniería humana, neurofisiología aplicada, biomecánica y telemetría biológica concebido para eliminar la entropía metodológica y la improvisación en las artes marciales y deportes de contacto[span_1](start_span)[span_1](end_span).
                 </p>
 
                 <p>
-                    A diferencia del entrenamiento tradicional basado en la acumulación ciega de fatiga muscular y dogmas históricos, el Codex concibe el combate como un <strong>proceso dinámico de control de lazo cerrado</strong>. Su fin es transformar al atleta en un operador capaz de anular la latencia reactiva del oponente y ejecutar intercepciones en <strong>Tiempo Cero ($T0$)</strong>.
+                    A diferencia del entrenamiento tradicional basado en la acumulación ciega de fatiga muscular y dogmas históricos, el Codex concibe el combate como un <strong>proceso dinámico de control de lazo cerrado</strong>. Su fin es transformar al atleta en un operador capaz de anular la latencia reactiva del oponente y ejecutar intercepciones en <strong>Tiempo Cero ($T0$)</strong>[span_2](start_span)[span_2](end_span).
                 </p>
 
                 <!-- 3 Levels of Abstraction Grid -->
@@ -202,19 +202,19 @@
                     <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-amber-500/50 transition-colors">
                         <div class="text-amber-500 font-mono text-xs uppercase font-bold mb-1">Nivel 1 • Límite Constitucional</div>
                         <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-gavel text-amber-500 mr-2"></i>La Regla</h3>
-                        <p class="text-xs text-gray-400">Establece el límite biomecánico e inmutable que garantiza la seguridad del chasis y la pureza del engrama motor del combatiente. Define el <em>"qué debe cumplirse"</em>.</p>
+                        <p class="text-xs text-gray-400">Establece el límite biomecánico e inmutable que garantiza la seguridad del chasis y la pureza del engrama motor del combatiente. Define el <em>"qué debe cumplirse"</em>[span_3](start_span)[span_3](end_span).</p>
                     </div>
 
                     <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-cyan-500/50 transition-colors">
                         <div class="text-cyan-400 font-mono text-xs uppercase font-bold mb-1">Nivel 2 • Telemetría</div>
                         <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-table text-cyan-400 mr-2"></i>La Plantilla</h3>
-                        <p class="text-xs text-gray-400">Receptáculo físico estructurado donde se registran metadatos y telemetría biológica del atleta, desterrando notas libres y subjetividades. Define el <em>"dónde se registra"</em>.</p>
+                        <p class="text-xs text-gray-400">Receptáculo físico estructurado donde se registran metadatos y telemetría biológica del atleta, desterrando notas libres y subjetividades. Define el <em>"dónde se registra"</em>[span_4](start_span)[span_4](end_span).</p>
                     </div>
 
                     <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-amber-500/50 transition-colors">
                         <div class="text-amber-500 font-mono text-xs uppercase font-bold mb-1">Nivel 3 • Hoja de Ruta Algorítmica</div>
                         <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-diagram-project text-amber-500 mr-2"></i>El P.A.O.</h3>
-                        <p class="text-xs text-gray-400">Protocolo de Aplicación Operativa: guía procedimental paso a paso que instruye al operador sobre cómo rellenar plantillas y aplicar reglas sin sesgo. Define el <em>"cómo se procede"</em>.</p>
+                        <p class="text-xs text-gray-400">Protocolo de Aplicación Operativa: guía procedimental paso a paso que instruye al operador sobre cómo rellenar plantillas y aplicar reglas sin sesgo. Define el <em>"cómo se procede"</em>[span_5](start_span)[span_5](end_span).</p>
                     </div>
                 </div>
 
@@ -225,7 +225,7 @@
                         Principio Rector Supremo: Regla de Continuidad de Flujo
                     </h4>
                     <p class="text-xs sm:text-sm text-gray-300">
-                        La famosa expresión <code class="bg-tactical-900 px-2 py-0.5 rounded text-amber-300 font-mono">A+D+A = 1</code> constituye un modelo paradigmático de integración temporal y funcional (Ataque + Defensa + Continuidad sin bloques independientes), y <strong>NO una secuencia fija u obligatoria</strong>. En el Codex, toda retracción o transición de masa es la defensa activa y la precarga bioeléctrica del siguiente ataque, erradicando los tiempos muertos.
+                        La famosa expresión <code class="bg-tactical-900 px-2 py-0.5 rounded text-amber-300 font-mono">A+D+A = 1</code> constituye un modelo paradigmático de integración temporal y funcional (Ataque + Defensa + Continuidad sin bloques independientes), y <strong>NO una secuencia fija u obligatoria</strong>. En el Codex, toda retracción o transición de masa es la defensa activa y la precarga bioeléctrica del siguiente ataque, erradicando los tiempos muertos[span_6](start_span)[span_6](end_span).
                     </p>
                 </div>
             </div>
@@ -249,7 +249,7 @@
             </div>
 
             <p class="text-gray-300 text-base sm:text-lg mb-8 leading-relaxed">
-                El Codex Bellator sirve como una <strong>plataforma de soberanía y optimización biomecánica integral</strong>. Sus aplicaciones abarcan desde la preparación física de alta precisión hasta el combate real en todas las distancias.
+                El Codex Bellator sirve como una <strong>plataforma de soberanía y optimización biomecánica integral</strong>. Sus aplicaciones abarcan desde la preparación física de alta precisión hasta el combate real en todas las distancias[span_7](start_span)[span_7](end_span).
             </p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -261,7 +261,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Anulación de Latencia Reactiva (Tiempo Cero)</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Permite al peleador detectar las microseñales biomecánicas del oponente antes de que su golpe madure, disparando el vector de intercepción en la génesis ($FF1$) e invalidando el tiempo de respuesta convencional (~200ms).
+                            Permite al peleador detectar las microseñales biomecánicas del oponente antes de que su golpe madure, disparando el vector de intercepción en la génesis ($FF1$) e invalidando el tiempo de respuesta convencional (~200ms)[span_8](start_span)[span_8](end_span).
                         </p>
                     </div>
                 </div>
@@ -274,7 +274,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Protección del Chasis y Prevención de Lesiones</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Mediante el <strong>Umbral de Velocidad Crítica (UVC 10%)</strong> y el protocolo de Chasis Seguro, aborta de forma automática las series cuando la velocidad cae, erradicando el "volumen basura" que degrada las articulaciones y corrompe el engrama.
+                            Mediante el <strong>Umbral de Velocidad Crítica (UVC 10%)</strong> y el protocolo de Chasis Seguro, aborta de forma automática las series cuando la velocidad cae, erradicando el "volumen basura" que degrada las articulaciones y corrompe el engrama[span_9](start_span)[span_9](end_span).
                         </p>
                     </div>
                 </div>
@@ -287,7 +287,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Unificación Striking & Grappling / Suelo</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Aplica de manera idéntica en combate de pie y combate de agarre (Judo, Lucha, BJJ). Rige la presión gravitacional cohesiva ($PFM-2$) y las cuñas mecánicas ($PFM-3$) para neutralizar barridos y derribos sin perder la plomada.
+                            Aplica de manera idéntica en combate de pie y combate de agarre (Judo, Lucha, BJJ). Rige la presión gravitacional cohesiva ($PFM-2$) y las cuñas mecánicas ($PFM-3$) para neutralizar barridos y derribos sin perder la plomada[span_10](start_span)[span_10](end_span).
                         </p>
                     </div>
                 </div>
@@ -300,7 +300,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Auditoría Cuantitativa Transparente</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Proporciona a entrenadores y atletas indicadores matemáticos inexpugnables ($IGD$, $I.I.S.$, $I.P.F.$) para evaluar la frescura neural y tomar decisiones adaptativas con el algoritmo <strong>IA-P1</strong>.
+                            Proporciona a entrenadores y atletas indicadores matemáticos inexpugnables ($IGD$, $I.I.S.$, $I.P.F.$) para evaluar la frescura neural y tomar decisiones adaptativas con el algoritmo <strong>IA-P1</strong>[span_11](start_span)[span_11](end_span).
                         </p>
                     </div>
                 </div>
@@ -327,15 +327,15 @@
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 items-center">
                 <div class="lg:col-span-2 space-y-4 text-gray-300 text-base leading-relaxed">
                     <p class="text-lg font-semibold text-white">
-                        La finalidad suprema perseguida por la Ciencia de Combate Unificado es alcanzar la <span class="text-amber-400 underline decoration-amber-500/50">Soberanía Neural y la Inevitabilidad Táctica</span> en la contienda.
+                        La finalidad suprema perseguida por la Ciencia de Combate Unificado es alcanzar la <span class="text-amber-400 underline decoration-amber-500/50">Soberanía Neural y la Inevitabilidad Táctica</span> en la contienda[span_12](start_span)[span_12](end_span).
                     </p>
                     <p>
-                        El objetivo no es simplemente ganar un asalto mediante desgaste aleatorio, sino <strong>dominar el espacio-tiempo de la pelea (Kairós)</strong>, erradicando la duda, la vacilación y los tiempos muertos a través de las 5 dimensiones del engrama motor subcortical (Estado de Integración $EI-5$).
+                        El objetivo no es simplemente ganar un asalto mediante desgaste aleatorio, sino <strong>dominar el espacio-tiempo de la pelea (Kairós)</strong>, erradicando la duda, la vacilación y los tiempos muertos a través de las 5 dimensiones del engrama motor subcortical (Estado de Integración $EI-5$)[span_13](start_span)[span_13](end_span).
                     </p>
                     <ul class="space-y-2 text-xs sm:text-sm font-mono text-gray-300 pt-2">
-                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Desatar el reclutamiento voluntario instantáneo de Fibras Rápidas Tipo IIa y IIx.</li>
-                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Reprogramar las respuestas reactivas para ser procesadas en el cerebelo en silencio cognitivo.</li>
-                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Maximizar la rentabilidad biológica del entrenamiento mediante el Índice de Costo-Beneficio ($ICB$).</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Desatar el reclutamiento voluntario instantáneo de Fibras Rápidas Tipo IIa y IIx[span_14](start_span)[span_14](end_span).</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Reprogramar las respuestas reactivas para ser procesadas en el cerebelo en silencio cognitivo[span_15](start_span)[span_15](end_span).</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Maximizar la rentabilidad biológica del entrenamiento mediante el Índice de Costo-Beneficio ($ICB$)[span_16](start_span)[span_16](end_span).</li>
                     </ul>
                 </div>
 
@@ -344,7 +344,7 @@
                     <i class="fa-solid fa-bullseye text-4xl text-amber-400 mb-3 block"></i>
                     <h3 class="font-black text-white text-lg uppercase tracking-wider mb-2">Meta Final</h3>
                     <p class="text-xs text-amber-200/80 leading-relaxed font-mono">
-                        "Convertir la respuesta defensiva y ofensiva en una sola vibración cinemática indivisible en Tiempo Cero (Lin Sil Die Dar)."
+                        "Convertir la respuesta defensiva y ofensiva en una sola vibración cinemática indivisible en Tiempo Cero (Lin Sil Die Dar)[span_17](start_span)[span_17](end_span)."
                     </p>
                 </div>
             </div>
@@ -370,7 +370,7 @@
                 </div>
             </div>
 
-            <!-- Interfaz Interactiva de Pestañas (Modificada para separar JS y HTML, añadiendo atributos ARIA) -->
+            <!-- Interfaz Interactiva de Pestañas -->
             <div class="mb-6 grid grid-cols-2 sm:grid-cols-3 gap-2 border-b border-tactical-700 pb-4" role="tablist">
                 <button data-target="content-vafp" role="tab" aria-selected="true" class="tab-btn active px-3 py-2 rounded-lg text-[10px] sm:text-xs font-bold uppercase transition-all bg-amber-500 text-black shadow-md">
                     1. Motor V.A.F.P.
@@ -402,24 +402,24 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Motor Neuronal Principal</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Es la interfaz neurobiológica encargada de comprimir el tiempo de procesamiento y ejecutar intercepciones sin latencia reactiva ($T0$).
+                        Es la interfaz neurobiológica encargada de comprimir el tiempo de procesamiento y ejecutar intercepciones sin latencia reactiva ($T0$)[span_18](start_span)[span_18](end_span).
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3 pt-2">
                         <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
                             <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">V • Vector</div>
-                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Selección instantánea de la trayectoria de menor resistencia sin movimientos parásitos.</p>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Selección instantánea de la trayectoria de menor resistencia sin movimientos parásitos[span_19](start_span)[span_19](end_span).</p>
                         </div>
                         <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
                             <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">A • Anticipación</div>
-                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Escaneo automático subcortical de microseñales biomecánicas (hombro, fijación ocular).</p>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Escaneo automático subcortical de microseñales biomecánicas (hombro, fijación ocular)[span_20](start_span)[span_20](end_span).</p>
                         </div>
                         <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
                             <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">F • Focalización</div>
-                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Silencio cognitivo y barrido de la duda; colapso neuromuscular coordinado.</p>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Silencio cognitivo y barrido de la duda; colapso neuromuscular coordinado[span_21](start_span)[span_21](end_span).</p>
                         </div>
                         <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
                             <div class="font-mono font-bold text-amber-400 text-xs sm:text-sm">P • Proyección</div>
-                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Materialización de la fuerza proyectada a través del eje enemigo sin desaceleración previa.</p>
+                            <p class="text-xs sm:text-sm text-gray-400 mt-1">Materialización de la fuerza proyectada a través del eje enemigo sin desaceleración previa[span_22](start_span)[span_22](end_span).</p>
                         </div>
                     </div>
                 </div>
@@ -431,20 +431,20 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">Leyes Biomecánicas Inmutables</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Las 3 leyes físicas rectoras que gobiernan la geometría corporal tanto en Golpeo (Striking) como en Agarre/Suelo (Grappling/Lucha/BJJ):
+                        Las 3 leyes físicas rectoras que gobiernan la geometría corporal tanto en Golpeo (Striking) como en Agarre/Suelo (Grappling/Lucha/BJJ)[span_23](start_span)[span_23](end_span):
                     </p>
                     <div class="space-y-3 pt-2">
                         <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
                             <div class="text-amber-400 font-bold text-xs sm:text-sm font-mono">PFM-1: Eje Estructural</div>
-                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Mantenimiento de la plomada vertical (cabeza-columna-cadera). En lucha/suelo opera como el pivote soberano que impide el colapso del centro de gravedad.</p>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Mantenimiento de la plomada vertical (cabeza-columna-cadera). En lucha/suelo opera como el pivote soberano que impide el colapso del centro de gravedad[span_24](start_span)[span_24](end_span).</p>
                         </div>
                         <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
                             <div class="text-amber-400 font-bold text-xs sm:text-sm font-mono">PFM-2: Transferencia de Masa Cohesiva</div>
-                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Inercia unificada del chasis. En el tapiz se transmutación en presión gravitacional sin espacios intersticiales sobre el oponente.</p>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Inercia unificada del chasis. En el tapiz se transmutación en presión gravitacional sin espacios intersticiales sobre el oponente[span_25](start_span)[span_25](end_span).</p>
                         </div>
                         <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
                             <div class="text-amber-400 font-bold text-xs sm:text-sm font-mono">PFM-3: Vectorización de Palancas y Cuñas</div>
-                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Cambios angulares de fuerza perpendiculares a los límites articulares rivales y ocupación agresiva de líneas centrales con codos/rodillas.</p>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-300 mt-1">Cambios angulares de fuerza perpendiculares a los límites articulares rivales y ocupación agresiva de líneas centrales con codos/rodillas[span_26](start_span)[span_26](end_span).</p>
                         </div>
                     </div>
                 </div>
@@ -456,16 +456,16 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Lazo Cerrado Desacoplado</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Ningún mecanismo ejecutor debe supervisarse a sí mismo. Por ello, el Codex separa la vigilancia de la ejecución:
+                        Ningún mecanismo ejecutor debe supervisarse a sí mismo. Por ello, el Codex separa la vigilancia de la ejecución[span_27](start_span)[span_27](end_span):
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
                         <div class="p-4 bg-tactical-800 rounded-lg border border-amber-500/30">
                             <h4 class="font-bold text-amber-400 text-xs sm:text-sm mb-1"><i class="fa-solid fa-eye mr-2"></i>C.N.S. (Centro de Supervisión Neuronal)</h4>
-                            <p class="text-xs sm:text-sm leading-relaxed text-gray-400">Módulo supervisor independiente. Vigila en segundo plano desviaciones mecánicas sin intervenir en el flujo voluntario.</p>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-400">Módulo supervisor independiente. Vigila en segundo plano desviaciones mecánicas sin intervenir en el flujo voluntario[span_28](start_span)[span_28](end_span).</p>
                         </div>
                         <div class="p-4 bg-tactical-800 rounded-lg border border-cyan-500/30">
                             <h4 class="font-bold text-cyan-400 text-xs sm:text-sm mb-1"><i class="fa-solid fa-wrench mr-2"></i>M.C.C. (Mecanismo de Compensación Continua)</h4>
-                            <p class="text-xs sm:text-sm leading-relaxed text-gray-400">Inyecta micro-ajustes reflejos en pleno vuelo (MCC-V, A, F o P) ante la señal del C.N.S., salvando la estructura antes del colapso.</p>
+                            <p class="text-xs sm:text-sm leading-relaxed text-gray-400">Inyecta micro-ajustes reflejos en pleno vuelo (MCC-V, A, F o P) ante la señal del C.N.S., salvando la estructura antes del colapso[span_29](start_span)[span_29](end_span).</p>
                         </div>
                     </div>
                 </div>
@@ -477,16 +477,16 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">7 Preguntas de Control</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Cortafuegos obligatorio antes de invertir recursos en diseñar un drill. Evalúa si la idea es VIABLE o NO VIABLE:
+                        Cortafuegos obligatorio antes de invertir recursos en diseñar un drill. Evalúa si la idea es VIABLE o NO VIABLE[span_30](start_span)[span_30](end_span):
                     </p>
                     <ol class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs sm:text-sm leading-relaxed font-mono text-gray-300 pt-2 space-y-1">
-                        <li class="p-2 bg-tactical-800 rounded border border-amber-500/30"><span class="text-amber-400 font-bold">1. Principio Mecánico (Gate #1):</span> ¿Respeta las leyes físicas de los P.F.M.?</li>
-                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">2. Objetivo V.A.F.P.:</span> Propósito de aceleración/ anticipación.</li>
-                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">3. Función:</span> Clasificación A-D de la A.F.E.</li>
-                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">4. Adaptación:</span> Reclutamiento de Fibras IIa/IIx.</li>
-                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">5. Datos:</span> F-Codes diagnosticables (F1-F4).</li>
-                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">6. Medición:</span> Control por S.M.V. & 10% UVC.</li>
-                        <li class="p-2 bg-tactical-800 rounded border border-cyan-500/30 sm:col-span-2"><span class="text-cyan-400 font-bold">7. Decisión & Optimización:</span> Reglas IA-P1 & ratio ICB.</li>
+                        <li class="p-2 bg-tactical-800 rounded border border-amber-500/30"><span class="text-amber-400 font-bold">1. Principio Mecánico (Gate #1):</span> ¿Respeta las leyes físicas de los P.F.M.?[span_31](start_span)[span_31](end_span)</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">2. Objetivo V.A.F.P.:</span> Propósito de aceleración/ anticipación[span_32](start_span)[span_32](end_span).</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">3. Función:</span> Clasificación A-D de la A.F.E[span_33](start_span)[span_33](end_span).</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">4. Adaptación:</span> Reclutamiento de Fibras IIa/IIx[span_34](start_span)[span_34](end_span).</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">5. Datos:</span> F-Codes diagnosticables (F1-F4)[span_35](start_span)[span_35](end_span).</li>
+                        <li class="p-2 bg-tactical-800 rounded"><span class="text-amber-400 font-bold">6. Medición:</span> Control por S.M.V. & 10% UVC[span_36](start_span)[span_36](end_span).</li>
+                        <li class="p-2 bg-tactical-800 rounded border border-cyan-500/30 sm:col-span-2"><span class="text-cyan-400 font-bold">7. Decisión & Optimización:</span> Reglas IA-P1 & ratio ICB[span_37](start_span)[span_37](end_span).</li>
                     </ol>
                 </div>
 
@@ -497,21 +497,21 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Ficha Técnica de 9 Campos</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Ningún ejercicio ingresa a la base de datos de las Series P sin completar estos 9 parámetros de ingeniería:
+                        Ningún ejercicio ingresa a la base de datos de las Series P sin completar estos 9 parámetros de ingeniería[span_38](start_span)[span_38](end_span):
                     </p>
                     <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 text-xs sm:text-sm leading-relaxed font-mono pt-2">
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">1.</span> Objetivo V.A.F.P.</div>
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">2.</span> Perturbación Inducida</div>
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">3.</span> Fallo Esperado (F1-F4)</div>
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">4.</span> Criterio de Éxito</div>
-                        <div class="p-2 bg-tactical-800 rounded border border-amber-500/40"><span class="text-amber-400">5.</span> Intensidad (Caos I-V)*</div>
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">6.</span> Variabilidad Vectorial</div>
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">7.</span> Transferencia S.C.I.T.O.</div>
-                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">8.</span> Métrica Cuantitativa</div>
-                        <div class="p-2 bg-tactical-800 rounded border border-cyan-500/40"><span class="text-cyan-400">9.</span> Principio Mecánico PFM</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">1.</span> Objetivo V.A.F.P.[span_39](start_span)[span_39](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">2.</span> Perturbación Inducida[span_40](start_span)[span_40](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">3.</span> Fallo Esperado (F1-F4)[span_41](start_span)[span_41](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">4.</span> Criterio de Éxito[span_42](start_span)[span_42](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border border-amber-500/40"><span class="text-amber-400">5.</span> Intensidad (Caos I-V)*[span_43](start_span)[span_43](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">6.</span> Variabilidad Vectorial[span_44](start_span)[span_44](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">7.</span> Transferencia S.C.I.T.O.[span_45](start_span)[span_45](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">8.</span> Métrica Cuantitativa[span_46](start_span)[span_46](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border border-cyan-500/40"><span class="text-cyan-400">9.</span> Principio Mecánico PFM[span_47](start_span)[span_47](end_span)</div>
                     </div>
                     <p class="text-[10px] sm:text-xs leading-relaxed text-amber-300/80 italic mt-2">
-                        *Aclaración Doctrinal: La escala de Intensidad I al V mide el nivel de caos ambiental y sobrecarga cognitiva, NO el esfuerzo concéntrico muscular (el cual es SIEMPRE 100% máximo voluntario).
+                        *Aclaración Doctrinal: La escala de Intensidad I al V mide el nivel de caos ambiental y sobrecarga cognitiva, NO el esfuerzo concéntrico muscular (el cual es SIEMPRE 100% máximo voluntario)[span_48](start_span)[span_48](end_span).
                     </p>
                 </div>
 
@@ -522,13 +522,13 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">Día 0 de Inicialización</span>
                     </div>
                     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2 text-xs sm:text-sm leading-relaxed pt-2">
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 1:</b> Potencia (Floor Press/ front squat)</div>
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 2:</b> Reacción (TR estocástico ms)</div>
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 3:</b> Cinética (Fugas rotacionales)</div>
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 4:</b> Toma de Decisión (Ratio vacilación)</div>
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500"><b class="text-cyan-400">Día 5:</b> Reactividad (Contacto muelle ms)</div>
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500"><b class="text-cyan-400">Día 6:</b> Lazo Cerrado (Guardia ósea)</div>
-                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500 sm:col-span-2"><b class="text-cyan-400">Día 7:</b> Auditoría S.M.V. (Cálculo IGD inicial & UVC)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 1:</b> Potencia (Floor Press/ front squat)[span_49](start_span)[span_49](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 2:</b> Reacción (TR estocástico ms)[span_50](start_span)[span_50](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 3:</b> Cinética (Fugas rotacionales)[span_51](start_span)[span_51](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-amber-500"><b class="text-amber-400">Día 4:</b> Toma de Decisión (Ratio vacilación)[span_52](start_span)[span_52](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500"><b class="text-cyan-400">Día 5:</b> Reactividad (Contacto muelle ms)[span_53](start_span)[span_53](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500"><b class="text-cyan-400">Día 6:</b> Lazo Cerrado (Guardia ósea)[span_54](start_span)[span_54](end_span)</div>
+                        <div class="p-2 bg-tactical-800 rounded border-l-2 border-cyan-500 sm:col-span-2"><b class="text-cyan-400">Día 7:</b> Auditoría S.M.V. (Cálculo IGD inicial & UVC)[span_55](start_span)[span_55](end_span)</div>
                     </div>
                 </div>
 
@@ -560,26 +560,26 @@
                 <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
                     <div class="text-amber-500 font-bold text-sm mb-2"><i class="fa-solid fa-microscope mr-2"></i>Principio de Henneman</div>
                     <p class="text-xs text-gray-400 leading-relaxed">
-                        Anula el reclutamiento lento mediante la <strong>Intención de Movimiento Absoluta y Rate Coding</strong>, forzando la activación inmediata de Fibras Rápidas Tipo IIa y IIx.
+                        Anula el reclutamiento lento mediante la <strong>Intención de Movimiento Absoluta y Rate Coding</strong>, forzando la activación inmediata de Fibras Rápidas Tipo IIa y IIx[span_56](start_span)[span_56](end_span).
                     </p>
                 </div>
 
                 <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
                     <div class="text-cyan-400 font-bold text-sm mb-2"><i class="fa-solid fa-bolt mr-2"></i>PAP & Regla del 10% UVC</div>
                     <p class="text-xs text-gray-400 leading-relaxed">
-                        Usa Potenciación Post-Activación y detiene la serie en el milisegundo en que la velocidad concéntrica cae un 10% (Umbral de Velocidad Crítica).
+                        Usa Potenciación Post-Activación y detiene la serie en el milisegundo en que la velocidad concéntrica cae un 10% (Umbral de Velocidad Crítica)[span_57](start_span)[span_57](end_span).
                     </p>
                 </div>
 
                 <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
                     <div class="text-amber-500 font-bold text-sm mb-2"><i class="fa-solid fa-bug mr-2"></i>Taxonomía F-Codes</div>
                     <p class="text-xs text-gray-400 leading-relaxed">
-                        Clasifica errores: <b>F1 Vector</b> (contenido), <b>F2 Anticipación</b>, <b>F3 Focalización</b> (CATASTRÓFICO por desencadenar Cascada Sistémica), y <b>F4 Proyección</b>.
+                        Clasifica errores: <b>F1 Vector</b> (contenido), <b>F2 Anticipación</b>, <b>F3 Focalización</b> (CATASTRÓFICO por desencadenar Cascada Sistémica), y <b>F4 Proyección</b>[span_58](start_span)[span_58](end_span).
                     </p>
                 </div>
             </div>
 
-            <!-- INTERACTIVE SIMULATOR: IGD CALCULATOR & SOFTWARE VETO CLAUSE (Inputs HTML limpios de oninput) -->
+            <!-- INTERACTIVE SIMULATOR: IGD CALCULATOR & SOFTWARE VETO CLAUSE -->
             <div class="bg-tactical-900/90 rounded-2xl p-4 sm:p-6 border border-amber-500/40 glow-amber">
                 <div class="flex flex-col gap-2 border-b border-tactical-700 pb-3 mb-4">
                     <h3 class="font-bold text-white text-sm sm:text-base flex items-start gap-2 leading-tight">
@@ -592,7 +592,7 @@
                 </div>
 
                 <p class="text-xs text-gray-400 mb-6">
-                    Ajusta los niveles de cada dimensión para evaluar el Índice Global de Desarrollo ($IGD$). Observa cómo opera la <strong>Cláusula de Voto de Censura de Software</strong> si Técnica o Táctica caen por debajo de 5.0:
+                    Ajusta los niveles de cada dimensión para evaluar el Índice Global de Desarrollo ($IGD$). Observa cómo opera la <strong>Cláusula de Voto de Censura de Software</strong> si Técnica o Táctica caen por debajo de 5.0[span_59](start_span)[span_59](end_span):
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -656,7 +656,7 @@
                                 <i class="fa-solid fa-ban"></i> PROGRESIÓN BLOQUEADA
                             </div>
                             <p class="text-[10px] leading-relaxed text-center">
-                                VOTO DE CENSURA ACTIVO: Software Técnico &lt; 5.0. Se veta el avance a una nueva campaña independientemente de las notas de Hardware.
+                                VOTO DE CENSURA ACTIVO: Software Técnico &lt; 5.0. Se veta el avance a una nueva campaña independientemente de las notas de Hardware[span_60](start_span)[span_60](end_span).
                             </p>
                         </div>
                     </div>
@@ -691,11 +691,11 @@
                     <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
                         <div>
                             <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
-                            <span class="text-gray-300"> Secuencial / Serie (Bloqueo T1 → Golpe T2). Latencia reactiva alta (~200ms).</span>
+                            <span class="text-gray-300"> Secuencial / Serie (Bloqueo T1 → Golpe T2). Latencia reactiva alta (~200ms)[span_61](start_span)[span_61](end_span).</span>
                         </div>
                         <div>
                             <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
-                            <span class="text-gray-300"> Paralelo / Kairós (Tiempo Cero $T0$). Intercepción simultánea (Lin Sil Die Dar).</span>
+                            <span class="text-gray-300"> Paralelo / Kairós (Tiempo Cero $T0$). Intercepción simultánea (Lin Sil Die Dar)[span_62](start_span)[span_62](end_span).</span>
                         </div>
                     </div>
                 </div>
@@ -705,11 +705,11 @@
                     <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
                         <div>
                             <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
-                            <span class="text-gray-300"> Subjetivo, basado en volumen de esfuerzo y agotamiento perceptual sin métricas científicas.</span>
+                            <span class="text-gray-300"> Subjetivo, basado en volumen de esfuerzo y agotamiento perceptual sin métricas científicas[span_63](start_span)[span_63](end_span).</span>
                         </div>
                         <div>
                             <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
-                            <span class="text-gray-300"> Auditoría Cuantitativa S.M.V., Umbral de Velocidad Crítica (UVC 10%) y Voto de Censura.</span>
+                            <span class="text-gray-300"> Auditoría Cuantitativa S.M.V., Umbral de Velocidad Crítica (UVC 10%) y Voto de Censura[span_64](start_span)[span_64](end_span).</span>
                         </div>
                     </div>
                 </div>
@@ -719,11 +719,11 @@
                     <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
                         <div>
                             <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
-                            <span class="text-gray-300"> Fragmentación entre striking, derribos y trabajo de suelo en fases aisladas.</span>
+                            <span class="text-gray-300"> Fragmentación entre striking, derribos y trabajo de suelo en fases aisladas[span_65](start_span)[span_65](end_span).</span>
                         </div>
                         <div>
                             <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
-                            <span class="text-gray-300"> Matriz biomecánica unificada mediante Leyes P.F.M. aplicadas con igual precisión en pie y tapiz.</span>
+                            <span class="text-gray-300"> Matriz biomecánica unificada mediante Leyes P.F.M. aplicadas con igual precisión en pie y tapiz[span_66](start_span)[span_66](end_span).</span>
                         </div>
                     </div>
                 </div>
@@ -735,7 +735,7 @@
         </div>
     </section>
 
-    <!-- NUEVA SECCIÓN DE DESCARGA: CODEX BELLATOR — DOCUMENTO COMPLETO -->
+    <!-- SECCIÓN DE DESCARGA: CODEX BELLATOR — DOCUMENTO COMPLETO -->
     <section id="descarga" class="py-12 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-tactical-800">
         <div class="bg-tactical-800/80 border-2 border-amber-500/80 rounded-2xl p-6 sm:p-10 shadow-2xl glow-amber text-center relative overflow-hidden">
             <div class="absolute top-0 right-0 w-40 h-40 bg-amber-500/10 rounded-full blur-3xl pointer-events-none"></div>
@@ -752,7 +752,7 @@
             <blockquote class="bg-tactical-900/90 border-l-4 border-amber-500 p-4 sm:p-6 rounded-r-xl max-w-3xl mx-auto mb-8 text-left text-gray-300 text-sm sm:text-base leading-relaxed font-medium">
                 <p class="italic">
                     "Descarga o consulta el documento completo del Codex Bellator: Ars Unified (C.C.U.).
-                    La página presenta una introducción y síntesis del sistema; el documento contiene el desarrollo completo."
+                    La página presenta una introducción y síntesis del sistema; el documento contiene el desarrollo completo[span_67](start_span)[span_67](end_span)."
                 </p>
             </blockquote>
 
@@ -769,7 +769,7 @@
             </div>
             
             <p class="mt-4 text-xs font-mono text-gray-400">
-                <i class="fa-solid fa-lock text-amber-500 mr-1"></i>Enlace verificado de Google Drive • Documento de estudio y consulta
+                <i class="fa-solid fa-lock text-amber-500 mr-1"></i>Enlace verificado de Google Drive • Documento de estudio y consulta[span_68](start_span)[span_68](end_span)
             </p>
         </div>
     </section>
@@ -777,28 +777,25 @@
     <!-- FOOTER -->
     <footer class="bg-tactical-900 border-t border-tactical-800 py-8 text-center text-xs text-gray-500 font-mono">
         <div class="max-w-7xl mx-auto px-4 space-y-2">
-            <p>© CODEX BELLATOR - ARS UNIFIED. Ciencia de Combate Unificado.</p>
-            <p class="text-amber-500/70">Soberanía Neural • Inevitabilidad Táctica • Tiempo Cero ($T0$)</p>
+            <p>© CODEX BELLATOR - ARS UNIFIED. Ciencia de Combate Unificado[span_69](start_span)[span_69](end_span).</p>
+            <p class="text-amber-500/70">Soberanía Neural • Inevitabilidad Táctica • Tiempo Cero ($T0$)[span_70](start_span)[span_70](end_span)</p>
         </div>
     </footer>
 
-    <!-- INTERACTIVE JAVASCRIPT LOGIC REFACTORIZADA -->
+    <!-- INTERACTIVE JAVASCRIPT LOGIC -->
     <script>
-        // Usamos DOMContentLoaded para garantizar que el script se cargue después del HTML
         document.addEventListener('DOMContentLoaded', () => {
             
             /* --- LÓGICA DEL MENÚ MÓVIL --- */
             const menuBtn = document.getElementById('mobile-menu-btn');
             const mobileMenu = document.getElementById('mobile-menu');
-            const mobileLinks = document.querySelectorAll('.mobile-link'); // Agregamos clase para identificarlos
+            const mobileLinks = document.querySelectorAll('.mobile-link');
 
             if (menuBtn && mobileMenu) {
-                // Alternar la visibilidad del menú
                 menuBtn.addEventListener('click', () => {
                     mobileMenu.classList.toggle('hidden');
                 });
 
-                // Cerrar el menú al hacer clic en un enlace de navegación
                 mobileLinks.forEach(link => {
                     link.addEventListener('click', () => {
                         mobileMenu.classList.add('hidden');
@@ -812,26 +809,21 @@
 
             tabButtons.forEach(btn => {
                 btn.addEventListener('click', () => {
-                    // Extraer el identificador del panel a través del atributo de datos
                     const targetId = btn.getAttribute('data-target');
 
-                    // 1. Ocultar todos los paneles de contenido
                     tabPanes.forEach(pane => pane.classList.add('hidden'));
                     
-                    // 2. Reiniciar estilos y estados ARIA de todos los botones
                     tabButtons.forEach(b => {
                         b.classList.remove('bg-amber-500', 'text-black', 'shadow-md', 'active');
                         b.classList.add('bg-tactical-700', 'text-gray-300');
                         b.setAttribute('aria-selected', 'false');
                     });
 
-                    // 3. Mostrar el panel de destino
                     const targetPane = document.getElementById(targetId);
                     if (targetPane) {
                         targetPane.classList.remove('hidden');
                     }
 
-                    // 4. Aplicar estilos activos y estado ARIA al botón presionado
                     btn.classList.remove('bg-tactical-700', 'text-gray-300');
                     btn.classList.add('bg-amber-500', 'text-black', 'shadow-md', 'active');
                     btn.setAttribute('aria-selected', 'true');
@@ -840,25 +832,21 @@
 
             /* --- LÓGICA DE LA CALCULADORA S.M.V. (IGD) --- */
             function calculateIGD() {
-                // Obtener valores parseados a flotante
                 const hf = parseFloat(document.getElementById('input-hf').value);
                 const hn = parseFloat(document.getElementById('input-hn').value);
                 const st = parseFloat(document.getElementById('input-st').value);
                 const ste = parseFloat(document.getElementById('input-ste').value);
                 const gm = parseFloat(document.getElementById('input-gm').value);
 
-                // Actualizar las etiquetas visuales
                 document.getElementById('val-hf').innerText = hf.toFixed(1);
                 document.getElementById('val-hn').innerText = hn.toFixed(1);
                 document.getElementById('val-st').innerText = st.toFixed(1);
                 document.getElementById('val-ste').innerText = ste.toFixed(1);
                 document.getElementById('val-gm').innerText = gm.toFixed(1);
 
-                // Calcular Puntaje Ponderado (20% por dimensión)
                 const igd = (hf * 0.20) + (hn * 0.20) + (st * 0.20) + (ste * 0.20) + (gm * 0.20);
                 document.getElementById('igd-score').innerText = igd.toFixed(2);
 
-                // Lógica de la Cláusula de Veto (ST o STE < 5.0)
                 const statusBox = document.getElementById('status-box');
                 if (st < 5.0 || ste < 5.0) {
                     let failReason = [];
@@ -887,13 +875,11 @@
                 }
             }
 
-            // Asignar el evento 'input' a cada control deslizante
             const igdInputs = document.querySelectorAll('.igd-input');
             igdInputs.forEach(input => {
                 input.addEventListener('input', calculateIGD);
             });
 
-            // Inicializar la calculadora al cargar la página
             calculateIGD();
         });
     </script>
