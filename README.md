@@ -192,11 +192,11 @@
 
             <div class="prose prose-invert max-w-none text-gray-300 text-base sm:text-lg leading-relaxed space-y-6">
                 <p class="font-medium text-amber-200/90 text-lg sm:text-xl border-l-4 border-amber-500 pl-4 py-1">
-                    El <strong>Codex Bellator – Ars Unified</strong> es la <strong>Ciencia de Combate Unificado (C.C.U.)</strong>: un sistema cerrado de alta ingeniería humana, neurofisiología aplicada, biomecánica y telemetría biológica concebido para eliminar la entropía metodológica y la improvisación en las artes marciales y deportes de contacto[span_3](start_span)[span_3](end_span).
+                    El <strong>Codex Bellator – Ars Unified</strong> es la <strong>Ciencia de Combate Unificado (C.C.U.)</strong>: un sistema cerrado de alta ingeniería humana, neurofisiología aplicada, biomecánica y telemetría biológica concebido para eliminar la entropía metodológica y la improvisación en las artes marciales y deportes de contacto.
                 </p>
 
                 <p>
-                    A diferencia del entrenamiento tradicional basado en la acumulación ciega de fatiga muscular y dogmas históricos, el Codex concibe el combate como un <strong>proceso dinámico de control de lazo cerrado</strong>. Su fin es transformar al atleta en un operador capaz de anular la latencia reactiva del oponente y ejecutar intercepciones en <strong>Tiempo Cero ($T0$)</strong>[span_4](start_span)[span_4](end_span).
+                    A diferencia del entrenamiento tradicional basado en la acumulación ciega de fatiga muscular y dogmas históricos, el Codex concibe el combate como un <strong>proceso dinámico de control de lazo cerrado</strong>. Su fin es transformar al atleta en un operador capaz de anular la latencia reactiva del oponente y ejecutar intercepciones en <strong>Tiempo Cero ($T0$)</strong>.
                 </p>
 
                 <!-- 3 Levels of Abstraction Grid -->
@@ -204,19 +204,19 @@
                     <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-amber-500/50 transition-colors">
                         <div class="text-amber-500 font-mono text-xs uppercase font-bold mb-1">Nivel 1 • Límite Constitucional</div>
                         <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-gavel text-amber-500 mr-2"></i>La Regla</h3>
-                        <p class="text-xs text-gray-400">Establece el límite biomecánico e inmutable que garantiza la seguridad del chasis y la pureza del engrama motor del combatiente. Define el <em>"qué debe cumplirse"</em>[span_5](start_span)[span_5](end_span).</p>
+                        <p class="text-xs text-gray-400">Establece el límite biomecánico e inmutable que garantiza la seguridad del chasis y la pureza del engrama motor del combatiente. Define el <em>"qué debe cumplirse"</em>.</p>
                     </div>
 
                     <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-cyan-500/50 transition-colors">
                         <div class="text-cyan-400 font-mono text-xs uppercase font-bold mb-1">Nivel 2 • Telemetría</div>
                         <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-table text-cyan-400 mr-2"></i>La Plantilla</h3>
-                        <p class="text-xs text-gray-400">Receptáculo físico estructurado donde se registran metadatos y telemetría biológica del atleta, desterrando notas libres y subjetividades. Define el <em>"dónde se registra"</em>[span_6](start_span)[span_6](end_span).</p>
+                        <p class="text-xs text-gray-400">Receptáculo físico estructurado donde se registran metadatos y telemetría biológica del atleta, desterrando notas libres y subjetividades. Define el <em>"dónde se registra"</em>.</p>
                     </div>
 
                     <div class="bg-tactical-900/80 p-5 rounded-xl border border-tactical-700 hover:border-amber-500/50 transition-colors">
                         <div class="text-amber-500 font-mono text-xs uppercase font-bold mb-1">Nivel 3 • Hoja de Ruta Algorítmica</div>
                         <h3 class="text-lg font-bold text-white mb-2"><i class="fa-solid fa-diagram-project text-amber-500 mr-2"></i>El P.A.O.</h3>
-                        <p class="text-xs text-gray-400">Protocolo de Aplicación Operativa: guía procedimental paso a paso que instruye al operador sobre cómo rellenar plantillas y aplicar reglas sin sesgo. Define el <em>"cómo se procede"</em>[span_7](start_span)[span_7](end_span).</p>
+                        <p class="text-xs text-gray-400">Protocolo de Aplicación Operativa: guía procedimental paso a paso que instruye al operador sobre cómo rellenar plantillas y aplicar reglas sin sesgo. Define el <em>"cómo se procede"</em>.</p>
                     </div>
                 </div>
 
@@ -227,7 +227,7 @@
                         Principio Rector Supremo: Regla de Continuidad de Flujo
                     </h4>
                     <p class="text-xs sm:text-sm text-gray-300">
-                        La famosa expresión <code class="bg-tactical-900 px-2 py-0.5 rounded text-amber-300 font-mono">A+D+A = 1</code> constituye un modelo paradigmático de integración temporal y funcional (Ataque + Defensa + Continuidad sin bloques independientes), y <strong>NO una secuencia fija u obligatoria</strong>. En el Codex, toda retracción o transición de masa es la defensa activa y la precarga bioeléctrica del siguiente ataque, erradicando los tiempos muertos[span_8](start_span)[span_8](end_span).
+                        La famosa expresión <code class="bg-tactical-900 px-2 py-0.5 rounded text-amber-300 font-mono">A+D+A = 1</code> constituye un modelo paradigmático de integración temporal y funcional (Ataque + Defensa + Continuidad sin bloques independientes), y <strong>NO una secuencia fija u obligatoria</strong>. En el Codex, toda retracción o transición de masa es la defensa activa y la precarga bioeléctrica del siguiente ataque, erradicando los tiempos muertos.
                     </p>
                 </div>
             </div>
@@ -251,7 +251,7 @@
             </div>
 
             <p class="text-gray-300 text-base sm:text-lg mb-8 leading-relaxed">
-                El Codex Bellator sirve como una <strong>plataforma de soberanía y optimización biomecánica integral</strong>. Sus aplicaciones abarcan desde la preparación física de alta precisión hasta el combate real en todas las distancias[span_9](start_span)[span_9](end_span).
+                El Codex Bellator sirve como una <strong>plataforma de soberanía y optimización biomecánica integral</strong>. Sus aplicaciones abarcan desde la preparación física de alta precisión hasta el combate real en todas las distancias.
             </p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -263,7 +263,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Anulación de Latencia Reactiva (Tiempo Cero)</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Permite al peleador detectar las microseñales biomecánicas del oponente antes de que su golpe madure, disparando el vector de intercepción en la génesis ($FF1$) e invalidando el tiempo de respuesta convencional (~200ms)[span_10](start_span)[span_10](end_span).
+                            Permite al peleador detectar las microseñales biomecánicas del oponente antes de que su golpe madure, disparando el vector de intercepción en la génesis ($FF1$) e invalidando el tiempo de respuesta convencional (~200ms).
                         </p>
                     </div>
                 </div>
@@ -276,7 +276,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Protección del Chasis y Prevención de Lesiones</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Mediante el <strong>Umbral de Velocidad Crítica (UVC 10%)</strong> y el protocolo de Chasis Seguro, aborta de forma automática las series cuando la velocidad cae, erradicando el "volumen basura" que degrada las articulaciones y corrompe el engrama[span_11](start_span)[span_11](end_span).
+                            Mediante el <strong>Umbral de Velocidad Crítica (UVC 10%)</strong> y el protocolo de Chasis Seguro, aborta de forma automática las series cuando la velocidad cae, erradicando el "volumen basura" que degrada las articulaciones y corrompe el engrama.
                         </p>
                     </div>
                 </div>
@@ -289,7 +289,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Unificación Striking & Grappling / Suelo</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Aplica de manera idéntica en combate de pie y combate de agarre (Judo, Lucha, BJJ). Rige la presión gravitacional cohesiva ($PFM-2$) y las cuñas mecánicas ($PFM-3$) para neutralizar barridos y derribos sin perder la plomada[span_12](start_span)[span_12](end_span).
+                            Aplica de manera idéntica en combate de pie y combate de agarre (Judo, Lucha, BJJ). Rige la presión gravitacional cohesiva ($PFM-2$) y las cuñas mecánicas ($PFM-3$) para neutralizar barridos y derribos sin perder la plomada.
                         </p>
                     </div>
                 </div>
@@ -302,7 +302,7 @@
                     <div>
                         <h3 class="text-lg font-bold text-white mb-2">Auditoría Cuantitativa Transparente</h3>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed">
-                            Proporciona a entrenadores y atletas indicadores matemáticos inexpugnables ($IGD$, $I.I.S.$, $I.P.F.$) para evaluar la frescura neural y tomar decisiones adaptativas con el algoritmo <strong>IA-P1</strong>[span_13](start_span)[span_13](end_span).
+                            Proporciona a entrenadores y atletas indicadores matemáticos inexpugnables ($IGD$, $I.I.S.$, $I.P.F.$) para evaluar la frescura neural y tomar decisiones adaptativas con el algoritmo <strong>IA-P1</strong>.
                         </p>
                     </div>
                 </div>
@@ -329,10 +329,10 @@
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 items-center">
                 <div class="lg:col-span-2 space-y-4 text-gray-300 text-base leading-relaxed">
                     <p class="text-lg font-semibold text-white">
-                        La finalidad suprema perseguida por la Ciencia de Combate Unificado es alcanzar la <span class="text-amber-400 underline decoration-amber-500/50">Soberanía Neural y la Inevitabilidad Táctica</span> en la contienda[span_14](start_span)[span_14](end_span).
+                        La finalidad suprema perseguida por la Ciencia de Combate Unificado es alcanzar la <span class="text-amber-400 underline decoration-amber-500/50">Soberanía Neural y la Inevitabilidad Táctica</span> en la contienda.
                     </p>
                     <p>
-                        El objetivo no es simplemente ganar un asalto mediante desgaste aleatorio, sino <strong>dominar el espacio-tiempo de la pelea (Kairós)</strong>, erradicando la duda, la vacilación y los tiempos muertos a través de las 5 dimensiones del engrama motor subcortical (Estado de Integración $EI-5$)[span_15](start_span)[span_15](end_span).
+                        El objetivo no es simplemente ganar un asalto mediante desgaste aleatorio, sino <strong>dominar el espacio-tiempo de la pelea (Kairós)</strong>, erradicando la duda, la vacilación y los tiempos muertos a través de las 5 dimensiones del engrama motor subcortical (Estado de Integración $EI-5$).
                     </p>
                     <ul class="space-y-2 text-xs sm:text-sm font-mono text-gray-300 pt-2">
                         <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-500"></i> Desatar el reclutamiento voluntario instantáneo de Fibras Rápidas Tipo IIa y IIx.</li>
@@ -404,7 +404,7 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Motor Neuronal Principal</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Es la interfaz neurobiológica encargada de comprimir el tiempo de procesamiento y ejecutar intercepciones sin latencia reactiva ($T0$)[span_16](start_span)[span_16](end_span).
+                        Es la interfaz neurobiológica encargada de comprimir el tiempo de procesamiento y ejecutar intercepciones sin latencia reactiva ($T0$).
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3 pt-2">
                         <div class="p-3 bg-tactical-800 rounded-lg border border-amber-500/30">
@@ -433,7 +433,7 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">Leyes Biomecánicas Inmutables</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Las 3 leyes físicas rectoras que gobiernan la geometría corporal tanto en Golpeo (Striking) como en Agarre/Suelo (Grappling/Lucha/BJJ)[span_17](start_span)[span_17](end_span):
+                        Las 3 leyes físicas rectoras que gobiernan la geometría corporal tanto en Golpeo (Striking) como en Agarre/Suelo (Grappling/Lucha/BJJ):
                     </p>
                     <div class="space-y-3 pt-2">
                         <div class="p-4 bg-tactical-800 rounded-lg border border-tactical-700">
@@ -458,7 +458,7 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Lazo Cerrado Desacoplado</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Ningún mecanismo ejecutor debe supervisarse a sí mismo. Por ello, el Codex separa la vigilancia de la ejecución[span_18](start_span)[span_18](end_span):
+                        Ningún mecanismo ejecutor debe supervisarse a sí mismo. Por ello, el Codex separa la vigilancia de la ejecución:
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
                         <div class="p-4 bg-tactical-800 rounded-lg border border-amber-500/30">
@@ -479,7 +479,7 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-cyan-500/20 text-cyan-300 px-2 py-1 rounded">7 Preguntas de Control</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Cortafuegos obligatorio antes de invertir recursos en diseñar un drill. Evalúa si la idea es VIABLE o NO VIABLE[span_19](start_span)[span_19](end_span):
+                        Cortafuegos obligatorio antes de invertir recursos en diseñar un drill. Evalúa si la idea es VIABLE o NO VIABLE:
                     </p>
                     <ol class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs sm:text-sm leading-relaxed font-mono text-gray-300 pt-2 space-y-1">
                         <li class="p-2 bg-tactical-800 rounded border border-amber-500/30"><span class="text-amber-400 font-bold">1. Principio Mecánico (Gate #1):</span> ¿Respeta las leyes físicas de los P.F.M.?</li>
@@ -499,7 +499,7 @@
                         <span class="text-[10px] sm:text-xs font-mono bg-amber-500/20 text-amber-300 px-2 py-1 rounded">Ficha Técnica de 9 Campos</span>
                     </div>
                     <p class="text-xs sm:text-sm leading-relaxed text-gray-300">
-                        Ningún ejercicio ingresa a la base de datos de las Series P sin completar estos 9 parámetros de ingeniería[span_20](start_span)[span_20](end_span):
+                        Ningún ejercicio ingresa a la base de datos de las Series P sin completar estos 9 parámetros de ingeniería:
                     </p>
                     <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 text-xs sm:text-sm leading-relaxed font-mono pt-2">
                         <div class="p-2 bg-tactical-800 rounded"><span class="text-amber-400">1.</span> Objetivo V.A.F.P.</div>
@@ -513,7 +513,7 @@
                         <div class="p-2 bg-tactical-800 rounded border border-cyan-500/40"><span class="text-cyan-400">9.</span> Principio Mecánico PFM</div>
                     </div>
                     <p class="text-[10px] sm:text-xs leading-relaxed text-amber-300/80 italic mt-2">
-                        *Aclaración Doctrinal: La escala de Intensidad I al V mide el nivel de caos ambiental y sobrecarga cognitiva, NO el esfuerzo concéntrico muscular (el cual es SIEMPRE 100% máximo voluntario)[span_21](start_span)[span_21](end_span).
+                        *Aclaración Doctrinal: La escala de Intensidad I al V mide el nivel de caos ambiental y sobrecarga cognitiva, NO el esfuerzo concéntrico muscular (el cual es SIEMPRE 100% máximo voluntario).
                     </p>
                 </div>
 
@@ -562,21 +562,21 @@
                 <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
                     <div class="text-amber-500 font-bold text-sm mb-2"><i class="fa-solid fa-microscope mr-2"></i>Principio de Henneman</div>
                     <p class="text-xs text-gray-400 leading-relaxed">
-                        Anula el reclutamiento lento mediante la <strong>Intención de Movimiento Absoluta y Rate Coding</strong>, forzando la activación inmediata de Fibras Rápidas Tipo IIa y IIx[span_22](start_span)[span_22](end_span).
+                        Anula el reclutamiento lento mediante la <strong>Intención de Movimiento Absoluta y Rate Coding</strong>, forzando la activación inmediata de Fibras Rápidas Tipo IIa y IIx.
                     </p>
                 </div>
 
                 <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
                     <div class="text-cyan-400 font-bold text-sm mb-2"><i class="fa-solid fa-bolt mr-2"></i>PAP & Regla del 10% UVC</div>
                     <p class="text-xs text-gray-400 leading-relaxed">
-                        Usa Potenciación Post-Activación y detiene la serie en el milisegundo en que la velocidad concéntrica cae un 10% (Umbral de Velocidad Crítica)[span_23](start_span)[span_23](end_span).
+                        Usa Potenciación Post-Activación y detiene la serie en el milisegundo en que la velocidad concéntrica cae un 10% (Umbral de Velocidad Crítica).
                     </p>
                 </div>
 
                 <div class="p-5 bg-tactical-900 rounded-xl border border-tactical-700">
                     <div class="text-amber-500 font-bold text-sm mb-2"><i class="fa-solid fa-bug mr-2"></i>Taxonomía F-Codes</div>
                     <p class="text-xs text-gray-400 leading-relaxed">
-                        Clasifica errores: <b>F1 Vector</b> (contenido), <b>F2 Anticipación</b>, <b>F3 Focalización</b> (CATASTRÓFICO por desencadenar Cascada Sistémica), y <b>F4 Proyección</b>[span_24](start_span)[span_24](end_span).
+                        Clasifica errores: <b>F1 Vector</b> (contenido), <b>F2 Anticipación</b>, <b>F3 Focalización</b> (CATASTRÓFICO por desencadenar Cascada Sistémica), y <b>F4 Proyección</b>.
                     </p>
                 </div>
             </div>
@@ -594,7 +594,7 @@
                 </div>
 
                 <p class="text-xs text-gray-400 mb-6">
-                    Ajusta los niveles de cada dimensión para evaluar el Índice Global de Desarrollo ($IGD$). Observa cómo opera la <strong>Cláusula de Voto de Censura de Software</strong> si Técnica o Táctica caen por debajo de 5.0[span_25](start_span)[span_25](end_span):
+                    Ajusta los niveles de cada dimensión para evaluar el Índice Global de Desarrollo ($IGD$). Observa cómo opera la <strong>Cláusula de Voto de Censura de Software</strong> si Técnica o Táctica caen por debajo de 5.0:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -693,11 +693,11 @@
                     <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
                         <div>
                             <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
-                            <span class="text-gray-300"> Secuencial / Serie (Bloqueo T1 → Golpe T2). Latencia reactiva alta (~200ms)[span_26](start_span)[span_26](end_span).</span>
+                            <span class="text-gray-300"> Secuencial / Serie (Bloqueo T1 → Golpe T2). Latencia reactiva alta (~200ms).</span>
                         </div>
                         <div>
                             <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
-                            <span class="text-gray-300"> Paralelo / Kairós (Tiempo Cero $T0$). Intercepción simultánea (Lin Sil Die Dar)[span_27](start_span)[span_27](end_span).</span>
+                            <span class="text-gray-300"> Paralelo / Kairós (Tiempo Cero $T0$). Intercepción simultánea (Lin Sil Die Dar).</span>
                         </div>
                     </div>
                 </div>
@@ -707,11 +707,11 @@
                     <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
                         <div>
                             <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
-                            <span class="text-gray-300"> Subjetivo, basado en volumen de esfuerzo y agotamiento perceptual sin métricas científicas[span_28](start_span)[span_28](end_span).</span>
+                            <span class="text-gray-300"> Subjetivo, basado en volumen de esfuerzo y agotamiento perceptual sin métricas científicas.</span>
                         </div>
                         <div>
                             <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
-                            <span class="text-gray-300"> Auditoría Cuantitativa S.M.V., Umbral de Velocidad Crítica (UVC 10%) y Voto de Censura[span_29](start_span)[span_29](end_span).</span>
+                            <span class="text-gray-300"> Auditoría Cuantitativa S.M.V., Umbral de Velocidad Crítica (UVC 10%) y Voto de Censura.</span>
                         </div>
                     </div>
                 </div>
@@ -721,11 +721,11 @@
                     <div class="space-y-2 text-[11px] sm:text-xs leading-relaxed">
                         <div>
                             <span class="font-bold text-gray-400">Metodologías Tradicionales:</span>
-                            <span class="text-gray-300"> Fragmentación entre striking, derribos y trabajo de suelo en fases aisladas[span_30](start_span)[span_30](end_span).</span>
+                            <span class="text-gray-300"> Fragmentación entre striking, derribos y trabajo de suelo en fases aisladas.</span>
                         </div>
                         <div>
                             <span class="font-bold text-amber-300">Codex Bellator – Ars Unified:</span>
-                            <span class="text-gray-300"> Matriz biomecánica unificada mediante Leyes P.F.M. aplicadas con igual precisión en pie y tapiz[span_31](start_span)[span_31](end_span).</span>
+                            <span class="text-gray-300"> Matriz biomecánica unificada mediante Leyes P.F.M. aplicadas con igual precisión en pie y tapiz.</span>
                         </div>
                     </div>
                 </div>
@@ -753,7 +753,7 @@
             </div>
 
             <p class="text-gray-300 text-base sm:text-lg mb-8 leading-relaxed">
-                Accede a las transmisiones en video, análisis biomecánicos en profundidad y programas de audio oficiales del Codex Bellator en nuestras plataformas institucionales[span_32](start_span)[span_32](end_span):
+                Accede a las transmisiones en video, análisis biomecánicos en profundidad y programas de audio oficiales del Codex Bellator en nuestras plataformas institucionales:
             </p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -770,10 +770,10 @@
                             </div>
                         </div>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed mb-6">
-                            Visualiza la ejecución correcta de las Leyes P.F.M., análisis de combates en Tiempo Cero ($T0$) y seminarios presenciales del sistema[span_33](start_span)[span_33](end_span).
+                            Visualiza la ejecución correcta de las Leyes P.F.M., análisis de combates en Tiempo Cero ($T0$) y seminarios presenciales del sistema.
                         </p>
                     </div>
-                    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" class="w-full px-4 py-3 bg-red-600 hover:bg-red-500 text-white font-bold uppercase tracking-wider text-xs rounded-xl transition-all flex items-center justify-center gap-2 shadow-lg shadow-red-600/20">
+                    <a href="https://youtube.com/@cbau_oficial?si=kCZbinpbCuyRJNiU" target="_blank" rel="noopener noreferrer" class="w-full px-4 py-3 bg-red-600 hover:bg-red-500 text-white font-bold uppercase tracking-wider text-xs rounded-xl transition-all flex items-center justify-center gap-2 shadow-lg shadow-red-600/20">
                         <i class="fa-solid fa-play"></i>
                         <span>Visitar Canal de YouTube</span>
                         <i class="fa-solid fa-arrow-up-right-from-square text-[10px] ml-auto"></i>
@@ -793,10 +793,10 @@
                             </div>
                         </div>
                         <p class="text-xs sm:text-sm text-gray-400 leading-relaxed mb-6">
-                            Escucha las conferencias doctrinales, discusiones sobre neurofisiología aplicada y la estructura teórica del Codex en formato de audio de alta fidelidad[span_34](start_span)[span_34](end_span).
+                            Escucha las conferencias doctrinales, discusiones sobre neurofisiología aplicada y la estructura teórica del Codex en formato de audio de alta fidelidad.
                         </p>
                     </div>
-                    <a href="https://spotify.com" target="_blank" rel="noopener noreferrer" class="w-full px-4 py-3 bg-emerald-600 hover:bg-emerald-500 text-white font-bold uppercase tracking-wider text-xs rounded-xl transition-all flex items-center justify-center gap-2 shadow-lg shadow-emerald-600/20">
+                    <a href="https://open.spotify.com/show/3TW9W430Awp2kJrsfyQmPD?si=jmxnEVngRR-X1-TL6p2yig&utm_source=copy-link" target="_blank" rel="noopener noreferrer" class="w-full px-4 py-3 bg-emerald-600 hover:bg-emerald-500 text-white font-bold uppercase tracking-wider text-xs rounded-xl transition-all flex items-center justify-center gap-2 shadow-lg shadow-emerald-600/20">
                         <i class="fa-solid fa-podcast"></i>
                         <span>Escuchar en Spotify</span>
                         <i class="fa-solid fa-arrow-up-right-from-square text-[10px] ml-auto"></i>
@@ -827,7 +827,7 @@
             <blockquote class="bg-tactical-900/90 border-l-4 border-amber-500 p-4 sm:p-6 rounded-r-xl max-w-3xl mx-auto mb-8 text-left text-gray-300 text-sm sm:text-base leading-relaxed font-medium">
                 <p class="italic">
                     "Descarga o consulta el documento completo del Codex Bellator: Ars Unified (C.C.U.).
-                    La página presenta una introducción y síntesis del sistema; el documento contiene el desarrollo completo[span_35](start_span)[span_35](end_span)."
+                    La página presenta una introducción y síntesis del sistema; el documento contiene el desarrollo completo."
                 </p>
             </blockquote>
 
@@ -844,7 +844,7 @@
             </div>
             
             <p class="mt-4 text-xs font-mono text-gray-400">
-                <i class="fa-solid fa-lock text-amber-500 mr-1"></i>Enlace verificado de Google Drive • Documento de estudio y consulta[span_36](start_span)[span_36](end_span)
+                <i class="fa-solid fa-lock text-amber-500 mr-1"></i>Enlace verificado de Google Drive • Documento de estudio y consulta
             </p>
         </div>
     </section>
@@ -852,8 +852,8 @@
     <!-- FOOTER -->
     <footer class="bg-tactical-900 border-t border-tactical-800 py-8 text-center text-xs text-gray-500 font-mono">
         <div class="max-w-7xl mx-auto px-4 space-y-2">
-            <p>© CODEX BELLATOR - ARS UNIFIED. Ciencia de Combate Unificado[span_37](start_span)[span_37](end_span).</p>
-            <p class="text-amber-500/70">Soberanía Neural • Inevitabilidad Táctica • Tiempo Cero ($T0$)[span_38](start_span)[span_38](end_span)</p>
+            <p>© CODEX BELLATOR - ARS UNIFIED. Ciencia de Combate Unificado.</p>
+            <p class="text-amber-500/70">Soberanía Neural • Inevitabilidad Táctica • Tiempo Cero ($T0$)</p>
         </div>
     </footer>
 
